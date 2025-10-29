@@ -1,0 +1,256 @@
+---
+title: "RWANDA DIGITAL SERVICE USAGE REPORT 2021-2024"
+author:
+  - name: "UWERA Bonnefete Yvette"
+    affiliation: "Data analyst"
+date: "2025-10-22"
+
+format:
+  html:
+    page-layout: full
+    self-contained: true
+    code-fold: true
+    code-tools: true
+    code-block-bg: true
+    code-block-border-left: "#31BAE9"
+    number-sections: true
+    number-tables: true
+    toc: true
+    toc-location: left
+    toc-title: Contents
+jupyter:
+  kernelspec:
+    display_name: "Python 3"
+    language: python
+    name: python3
+
+---
+
+## Rwanda Digital Service Usage Dataset – Data Cleaning and Preprocessing
+
+In this notebook, we perform data preparation, cleaning, and preprocessing for the Digital Service Usage Rwanda Dataset, which contains information about citizens’ interactions with various digital services across Rwanda’s districts. The dataset captures key metrics such as the number of users reported, satisfaction scores, departments, and service names over time.
+
+Effective data cleaning ensures that the dataset is accurate, consistent, and ready for analysis. This process helps uncover patterns in digital adoption, identify service performance gaps, and provide valuable insights for improving digital service delivery and citizen satisfaction.
+
+Throughout this notebook, we will address common data quality issues such as missing values, duplicate records, inconsistent formatting, and invalid entries, ensuring that all columns are properly structured and formatted for analysis. We will also handle numerical and categorical variables appropriately and prepare the dataset for visualization or modeling tasks.
+
+By the end of this preprocessing stage, the dataset will be well-structured, reliable, and analysis-ready, forming a solid foundation for any further analytics, reporting, or policy evaluation related to Rwanda’s digital transformation initiatives.
+
+
+We start by importing essential Python libraries for data handling and manipulation.
+
+- `pandas` for structured data operations.
+
+- `numpy` for numerical operations.
+
+- `os` for interacting with the operating system and directory structures.
+
+```{python}
+# Import libraries
+
+import pandas as pd
+import numpy as np
+import os
+```
+
+## Define and Create Directory Paths
+
+To ensure reproducibility and organized storage, we programmatically create directories for:
+
+- **raw data**
+- **processed data**
+- **documentation**
+
+These directories will store intermediate and final outputs for reproducibility.
+
+```{python}
+# Get working directory
+current_dir = os.getcwd()
+# Go one directory up to the root directory
+project_root_dir = os.path.dirname(current_dir)
+# define paths to the data files
+data_dir = os.path.join(project_root_dir, 'data')
+raw_dir = os.path.join(data_dir, 'raw')
+processed_dir = os.path.join(data_dir, 'processed')
+# Define paths to the docs folder
+docs_dir = os.path.join(project_root_dir, 'docs')
+
+# create directories if they do not exist 
+os.makedirs(raw_dir, exist_ok = True )
+os.makedirs(processed_dir, exist_ok = True )
+os.makedirs(docs_dir, exist_ok = True)
+```
+
+## Read in the data
+
+We load the **Digital Service Usage Rwanda dataset** as a CSV file.
+
+Key considerations here are:
+
+- We ensure the file path is correctly defined using `os.path.join`.
+- After loading, we inspect the first few rows to understand the structure of the dataset.
+
+```{python}
+# Load the dataset
+DSU_data_filename = os.path.join(raw_dir, "DigitalServiceUsage_Rwanda - DigitalServiceUsage_Rwanda.csv")
+DSU_df = pd.read_csv(DSU_data_filename)
+# Check first few rows
+DSU_df.head()
+```
+
+We also inspect the dataset's shape. We see that the dataset has *1025* rows and *7* columns.
+
+```{python}
+DSU_df.shape
+```
+
+In addition, we check the data types using `.info`. 
+
+```{python}
+DSU_df.info()
+```
+
+## Data cleaning
+
+### Understanding the dataset
+
+Before proceeding with the cleaning, it’s important to understand the variables in the **Digital Service Usage Rwanda Dataset**.  
+This helps guide the data cleaning process and ensures that the handling of missing values, categorical variables, and data types is accurate.
+
+**Table 1: Summary table of the variables in the dataset**
+
+| Variable                   | Type        | Description                                                                | Values / Range (excluding NaN)           |
+|:---------------------------|:------------|:---------------------------------------------------------------------------|:----------------------------------------|
+| District                   | Categorical | Administrative district where the service usage was reported               | Musanze, Gasabo, Rusizi, Nyagatare, Rubavu, Burera, Nyarugenge, Nyamagabe, Kicukiro, Huye |
+| Service_Name               | Categorical | Name of the digital service used by citizens                               | eTax Portal, E-Visa Service, Digital Health Records, Online Business Registration, Irembo Services, Land Registration Portal |
+| Department                 | Categorical | Government department or ministry responsible for the service              | Ministry of ICT, Ministry of Health, Rwanda Revenue Authority, Immigration Department, Ministry of Lands |
+| Users_Reported              | Numeric     | Number of users reported for the service                                   | 516 – 4893                              |
+| Satisfaction_Score_(%)      | Numeric     | Citizen satisfaction score with the digital service (in percentage)        | 54.1 – 98.7                             |
+| Year                        | Numeric     | Year when the data was recorded                                            | 2021 – 2024                             |
+| Month                       | Categorical | Month when the data was recorded                                           | Apr, Feb, Jun, Aug, Sep, Dec, May, Unknown |
+
+
+**Table 2: Categorical Variables Table**
+
+| Variable         | Unique Values / Examples                             | Description                                                                 |
+|:-----------------|:-----------------------------------------------------|:----------------------------------------------------------------------------|
+| District         | Musanze, Gasabo, Rusizi, Nyagatare, Rubavu, Burera, Nyarugenge, Nyamagabe, Kicukiro, Huye | Represents the district where data was collected                            |
+| Service_Name     | eTax Portal, Digital Health Records, E-Visa Service, Irembo Services, Online Business Registration, Land Registration Portal | Digital government service accessed by citizens                             |
+| Department       | Ministry of ICT, Ministry of Health, Rwanda Revenue Authority, Ministry of Lands, Immigration Department | Ministry or institution responsible for managing the digital service        |
+| Month            | Apr, Feb, Jun, Aug, Sep, Dec, May, Unknown           | Indicates the month of data collection (some months may be missing or unknown) |
+
+### Deal with missing values
+
+Using `.isnull().sum()`, we identify columns with missing values in the dataset.  
+
+For the **Digital Service Usage Rwanda Dataset**, the missing values are as follows:
+
+
+```{python}
+DSU_df.isnull().sum()
+```
+
+We address these:
+ - For numerical columns like **Users_Reported** and **Satisfaction_Score_(%)**, missing or blank values are replaced with **0**. This is useful when missing data represents a numeric quantity and we want to avoid errors in calculations, summaries, or visualizations.
+ - For categorical columns like **Month**, missing values are replaced with **Unknown** to maintain consistency and avoid issues during analysis or grouping.
+
+```{python}
+DSU_df['Users_Reported'] = DSU_df['Users_Reported'].fillna(0)
+DSU_df['Satisfaction_Score_(%)'] = DSU_df['Satisfaction_Score_(%)'].fillna(0)
+DSU_df['Month'] = DSU_df['Month'].fillna('Unknown')
+```
+
+```{python}
+DSU_df.isnull().sum()
+```
+
+### Removing Duplicates
+
+Duplicates can distort statistical summaries and model performance. Using `.duplicated().sum()`, we count duplicate records
+
+```{python}
+DSU_df.duplicated().sum()
+```
+
+We then inspect the duplicated records.
+
+```{python}
+DSU_df[DSU_df.duplicated(keep = False)]
+```
+
+Finally, we remove them with `.drop_duplicates()`.
+
+```{python}
+DSU_df.drop_duplicates(inplace=True)
+```
+
+We can confirm that we have no duplicates left in the dataset at this juncture.
+
+```{python}
+DSU_df.duplicated().sum()
+```
+
+## Validate Data Ranges and Numeric Formats
+
+To ensure data consistency, I perform validation checks on numeric columns and verify that all numerical values fall within logical ranges.
+
+Key validation steps include:
+
+1. **Check numeric data types** — confirm that `Users_Reported` and `Satisfaction_Score_(%)` are stored as numeric values.
+2. **Validate ranges** — ensure that:
+   - `Users_Reported` is non-negative.
+   - `Satisfaction_Score_(%)` lies between 0 and 100.
+3. **Identify anomalies** — detect any unexpected or invalid values that could affect analysis.
+
+```{python}
+DSU_df['Users_Reported'] = pd.to_numeric(DSU_df['Users_Reported'], errors='coerce')
+DSU_df['Satisfaction_Score_(%)'] = pd.to_numeric(DSU_df['Satisfaction_Score_(%)'], errors='coerce')
+
+invalid_scores = DSU_df[
+    (DSU_df['Satisfaction_Score_(%)'] < 0) | (DSU_df['Satisfaction_Score_(%)'] > 100)
+]
+
+invalid_users = DSU_df[DSU_df['Users_Reported'] < 0]
+
+print("Invalid satisfaction scores:", len(invalid_scores))
+print("Invalid user counts:", len(invalid_users))
+DSU_df.dtypes.head()
+```
+
+- Invalid satisfaction scores: 0
+    → All satisfaction scores are in the valid range (>=0)
+- Invalid user counts: 0
+    → All user counts are valid (>=0)
+- Column types:
+    → Numeric columns are in the correct float format
+    → Categorical columns are in object/string format
+
+The dataset DSU_df is clean with no negative or invalid numeric values, and all columns have the correct data type, making it ready for analysis.
+
+## Save the Clean Dataset
+
+Before saving the clean dataset, we re-inspect it to ensure no new issues have risen up. We first of all inspect the shape of the dataset.
+
+```{python}
+DSU_df.shape
+```
+
+```{python}
+DSU_df.isnull().sum()
+```
+
+```{python}
+DSU_df.duplicated().sum()
+```
+
+The final shape of the cleaned dataset is thus *1,000* rows and *7* columns.
+and there is no duplicated value
+
+finally, we save the clean, processed dataset as a CSV file in our `processed` directory for future modelling and analysis.
+
+```{python}
+final_file = os.path.join(processed_dir, 'DigitalServiceUsage_Rwanda_cleaned.csv') 
+DSU_df.to_csv(final_file, index=False)
+```
+
+

@@ -1,0 +1,1001 @@
+District,Service_Name,Department,Users_Reported,Satisfaction_Score_(%),Year,Month
+Musanze,eTax Portal,Ministry of Health,910.0,0.0,2022,Unknown
+Gasabo,Land Registration Portal,Immigration Department,3822.0,93.6,2023,Dec
+Rusizi,eTax Portal,Rwanda Revenue Authority,516.0,82.9,2024,Mar
+Nyagatare,E-Visa Service,Ministry of ICT,4476.0,0.0,2024,Jun
+Nyagatare,Digital Health Records,Rwanda Revenue Authority,0.0,0.0,2023,May
+Rubavu,E-Visa Service,Rwanda Revenue Authority,0.0,0.0,2022,Jun
+Musanze,eTax Portal,Rwanda Revenue Authority,0.0,98.7,2021,Aug
+Burera,Digital Health Records,Ministry of Lands,0.0,54.1,2023,Unknown
+Nyarugenge,eTax Portal,Ministry of ICT,0.0,84.0,2021,Apr
+Nyamagabe,Online Business Registration,Ministry of Health,0.0,70.9,2021,Sep
+Kicukiro,Digital Health Records,Immigration Department,0.0,0.0,2023,Aug
+Gasabo,Digital Health Records,Immigration Department,4893.0,58.7,2024,Jun
+Nyarugenge,Irembo Services,Ministry of Health,524.0,86.4,2021,Aug
+Huye,Online Business Registration,Ministry of Lands,0.0,92.3,2021,Feb
+Nyagatare,Digital Health Records,Immigration Department,0.0,0.0,2022,Aug
+Nyanza,Land Registration Portal,Rwanda Revenue Authority,0.0,0.0,2024,Dec
+Gasabo,eTax Portal,Immigration Department,0.0,52.0,2021,Dec
+Burera,Land Registration Portal,Ministry of ICT,0.0,75.7,2022,Aug
+Huye,eTax Portal,Ministry of ICT,0.0,71.9,2024,Jun
+Burera,E-Visa Service,Ministry of Health,0.0,0.0,2023,Feb
+Nyamagabe,eTax Portal,Ministry of Lands,1578.0,0.0,2023,May
+Nyagatare,Irembo Services,Ministry of Lands,3606.0,89.6,2022,Jan
+Rulindo,E-Visa Service,Immigration Department,696.0,63.8,2023,Unknown
+Rusizi,Digital Health Records,Ministry of Lands,2938.0,64.2,2021,Dec
+Gasabo,eTax Portal,Ministry of Lands,2485.0,60.5,2024,Feb
+Rwamagana,Irembo Services,Immigration Department,0.0,73.3,2021,Jan
+Nyamagabe,Land Registration Portal,Ministry of ICT,0.0,86.7,2021,Unknown
+Karongi,E-Visa Service,Rwanda Revenue Authority,0.0,0.0,2023,Jun
+Rusizi,E-Visa Service,Ministry of Health,0.0,95.5,2021,Nov
+Rubavu,Irembo Services,Ministry of ICT,0.0,0.0,2023,Feb
+Huye,Land Registration Portal,Ministry of Lands,0.0,98.6,2024,Nov
+Karongi,E-Visa Service,Ministry of Lands,0.0,0.0,2024,Unknown
+Musanze-,Digital Health Records,Immigration Department,4064.0,0.0,2021,Mar
+Nyarugenge,eTax Portal,Ministry of Health,0.0,54.9,2022,Dec
+Gakenke,Online Business Registration,Rwanda Revenue Authority,0.0,0.0,2023,Apr
+Musanze,Land Registration Portal,Immigration Department,0.0,0.0,2023,Sep
+Bugesera,eTax Portal,Immigration Department,0.0,0.0,2021,Mar
+Bugesera,Online Business Registration,Rwanda Revenue Authority,0.0,82.6,2023,Sep
+Rusizi,E-Visa Service,Rwanda Revenue Authority,1550.0,0.0,2023,Mar
+Kicukiro,Online Business Registration,Ministry of Lands,0.0,92.9,2022,Jun
+Rulindo,Land Registration Portal,Immigration Department,0.0,0.0,2022,Sep
+Burera,eTax Portal,Ministry of ICT,4961.0,0.0,2021,Jul
+Musanze,E-Visa Service,Ministry of ICT,0.0,98.5,2022,Aug
+Gakenke,E-Visa Service,Immigration Department,0.0,0.0,2021,Apr
+Nyarugenge,E-Visa Service,Rwanda Revenue Authority,0.0,0.0,2024,Unknown
+Burera,E-Visa Service,Ministry of Health,387.0,66.5,2021,Jul
+Ngoma,Online Business Registration,Rwanda Revenue Authority,0.0,0.0,2024,Nov
+Bugesera,E-Visa Service,Rwanda Revenue Authority,4043.0,57.3,2021,Mar
+Huye,Irembo Services,Ministry of Health,0.0,62.4,2023,Mar
+Nyarugenge,E-Visa Service,Rwanda Revenue Authority,429.0,97.4,2022,Nov
+Kicukiro,E-Visa Service,Ministry of Health,2112.0,0.0,2024,Nov
+Nyagatare,Irembo Services,Immigration Department,114.0,69.0,2021,Jul
+Ngoma,eTax Portal,Ministry of Health,0.0,86.8,2022,Jul
+Nyarugenge,Digital Health Records,Ministry of ICT,0.0,76.7,2021,Jan
+Nyagatare,Irembo Services,Ministry of Health,1545.0,0.0,2022,Dec
+Musanze,Land Registration Portal,Rwanda Revenue Authority,441.0,72.3,2022,Oct
+Gakenke,eTax Portal,Immigration Department,4564.0,0.0,2021,Apr
+Rusizi,E-Visa Service,Ministry of Health,4524.0,0.0,2024,Aug
+Rulindo,Online Business Registration,Rwanda Revenue Authority,3611.0,0.0,2024,Oct
+Bugesera,Irembo Services,Ministry of Health,3149.0,56.1,2023,Jul
+Rwamagana,eTax Portal,Immigration Department,0.0,96.8,2022,Jul
+Bugesera,eTax Portal,Immigration Department,0.0,82.0,2023,Jan
+Bugesera,E-Visa Service,Ministry of ICT,0.0,72.6,2023,Dec
+Huye,Digital Health Records,Immigration Department,4648.0,54.4,2021,Apr
+Rusizi,Online Business Registration,Rwanda Revenue Authority,0.0,0.0,2021,Apr
+Nyarugenge,Online Business Registration,Immigration Department,854.0,0.0,2021,May
+Rwamagana,Online Business Registration,Immigration Department,0.0,0.0,2022,Unknown
+Burera,Land Registration Portal,Rwanda Revenue Authority,2823.0,0.0,2021,Dec
+Nyagatare,eTax Portal,Rwanda Revenue Authority,1620.0,0.0,2021,Unknown
+Rwamagana,Land Registration Portal,Immigration Department,2740.0,98.7,2022,Unknown
+Rulindo,Land Registration Portal,Immigration Department,0.0,72.7,2022,Feb
+Gakenke,eTax Portal,Ministry of Health,552.0,76.1,2024,Oct
+Rusizi,Online Business Registration,Immigration Department,4543.0,0.0,2021,Feb
+Burera,eTax Portal,Ministry of ICT,4538.0,0.0,2021,Unknown
+Nyagatare,Digital Health Records,Ministry of ICT,1534.0,0.0,2021,Unknown
+Karongi,eTax Portal,Ministry of ICT,913.0,0.0,2024,Sep
+Kicukiro,E-Visa Service,Ministry of ICT,613.0,0.0,2021,Mar
+Nyagatare,eTax Portal,Immigration Department,0.0,59.4,2024,Jun
+Kicukiro,Irembo Services,Ministry of Health,1807.0,0.0,2023,Jun
+Karongi,Digital Health Records,Rwanda Revenue Authority,1728.0,61.7,2024,Apr
+Gakenke,Irembo Services,Immigration Department,0.0,0.0,2023,Aug
+Rusizi,Online Business Registration,Ministry of Lands,1772.0,83.1,2021,Feb
+Nyarugenge,Online Business Registration,Immigration Department,0.0,0.0,2023,May
+Huye,E-Visa Service,Ministry of ICT,0.0,0.0,2024,Nov
+Karongi,E-Visa Service,Ministry of Lands,1647.0,0.0,2022,Unknown
+Huye,E-Visa Service,Immigration Department,0.0,93.2,2023,Aug
+Kayonza,Digital Health Records,Ministry of Health,0.0,0.0,2023,Sep
+Gakenke,Land Registration Portal,Ministry of Health,0.0,0.0,2021,Nov
+Rulindo,eTax Portal,Ministry of Lands,2031.0,83.8,2024,Jun
+Rubavu,Irembo Services,Rwanda Revenue Authority,0.0,0.0,2023,Oct
+Rusizi,Digital Health Records,Ministry of Lands,0.0,69.7,2023,Jul
+Rubavu,Irembo Services,Ministry of Health,0.0,0.0,2023,Oct
+Nyagatare,eTax Portal,Ministry of Lands,0.0,0.0,2023,Jul
+Burera,Land Registration Portal,Ministry of ICT,2725.0,80.2,2022,Oct
+Burera,Irembo Services,Ministry of ICT,1332.0,98.9,2024,Feb
+Rusizi,Digital Health Records,Rwanda Revenue Authority,0.0,99.7,2021,Jun
+Nyamagabe,eTax Portal,Ministry of Lands,0.0,89.1,2021,Jun
+Gakenke,E-Visa Service,Ministry of Lands,3798.0,64.4,2022,Unknown
+Bugesera,E-Visa Service,Ministry of Lands,0.0,93.9,2024,Aug
+Nyagatare,E-Visa Service,Ministry of Lands,2048.0,0.0,2023,Oct
+Rubavu,eTax Portal,Rwanda Revenue Authority,0.0,0.0,2022,Mar
+Nyanza,Land Registration Portal,Ministry of Health,1545.0,95.1,2024,Unknown
+Kayonza,Digital Health Records,Immigration Department,3813.0,89.9,2023,Nov
+Nyarugenge,E-Visa Service,Rwanda Revenue Authority,1903.0,93.4,2022,Dec
+Kicukiro,eTax Portal,Ministry of Health,0.0,0.0,2024,Unknown
+Musanze,Irembo Services,Ministry of Health,3631.0,82.5,2021,May
+Rubavu,E-Visa Service,Ministry of Health,3507.0,0.0,2021,Oct
+Rwamagana,Online Business Registration,Ministry of Lands,1686.0,80.5,2024,Oct
+Nyamagabe,Digital Health Records,Rwanda Revenue Authority,3049.0,0.0,2021,Feb
+Nyarugenge,Irembo Services,Ministry of Health,748.0,77.4,2024,Nov
+Gakenke,Land Registration Portal,Immigration Department,0.0,61.9,2023,Mar
+Gakenke,Land Registration Portal,Immigration Department,904.0,0.0,2024,Jun
+Rulindo,eTax Portal,Ministry of ICT,0.0,53.7,2023,Feb
+Nyanza,Land Registration Portal,Ministry of Health,0.0,0.0,2022,Apr
+Rusizi,Online Business Registration,Rwanda Revenue Authority,0.0,0.0,2024,May
+Burera,E-Visa Service,Ministry of Lands,4981.0,75.0,2022,Feb
+Gasabo,Irembo Services,Ministry of ICT,0.0,0.0,2021,Mar
+Musanze,E-Visa Service,Ministry of Health,4268.0,0.0,2023,Jun
+Burera,Digital Health Records,Ministry of Lands,0.0,0.0,2024,Dec
+Rusizi,E-Visa Service,Rwanda Revenue Authority,2377.0,55.4,2022,Mar
+Karongi,eTax Portal,Rwanda Revenue Authority,0.0,69.9,2023,Sep
+Musanze,E-Visa Service,Ministry of ICT,0.0,0.0,2023,Jul
+Ngoma,Digital Health Records,Ministry of ICT,1980.0,0.0,2021,Jul
+Nyamagabe-,Irembo Services,Ministry of Health,658.0,0.0,2021,Oct
+Rwamagana,Online Business Registration,Ministry of Lands,1197.0,85.9,2023,Mar
+Rulindo,Irembo Services,Immigration Department,0.0,76.1,2023,Oct
+Gasabo,Irembo Services,Ministry of Lands,0.0,59.8,2024,Jul
+Rusizi,eTax Portal,Rwanda Revenue Authority,2861.0,94.8,2023,Jul
+Nyanza,Digital Health Records,Rwanda Revenue Authority,1419.0,94.9,2024,Mar
+Rwamagana,Irembo Services,Ministry of Health,0.0,82.7,2023,Aug
+Nyanza,Irembo Services,Immigration Department,2961.0,53.0,2021,Nov
+Musanze,Online Business Registration,Ministry of Health,1893.0,74.0,2024,Sep
+Ngoma,Land Registration Portal,Rwanda Revenue Authority,0.0,55.1,2022,Dec
+Nyanza,Online Business Registration,Rwanda Revenue Authority,0.0,80.9,2021,Nov
+Huye,Digital Health Records,Ministry of Lands,4786.0,64.2,2024,Mar
+Rubavu,Digital Health Records,Immigration Department,0.0,0.0,2024,Sep
+Bugesera,eTax Portal,Ministry of Lands,0.0,0.0,2022,Mar
+Rwamagana,E-Visa Service,Ministry of Lands,673.0,0.0,2024,Aug
+Burera,E-Visa Service,Ministry of Health,3693.0,85.8,2023,May
+Nyanza,E-Visa Service,Ministry of Lands,2099.0,0.0,2022,Mar
+Gasabo,Land Registration Portal,Ministry of ICT,3773.0,56.1,2021,Mar
+Karongi,Digital Health Records,Ministry of ICT,0.0,0.0,2021,Jun
+Kayonza,Land Registration Portal,Ministry of Lands,4140.0,59.1,2023,Unknown
+Gasabo,E-Visa Service,Immigration Department,2106.0,59.2,2021,Aug
+Musanze,E-Visa Service,Ministry of Lands,3220.0,0.0,2024,Oct
+Bugesera,Online Business Registration,Rwanda Revenue Authority,2305.0,0.0,2024,Jan
+Ngoma,Digital Health Records,Rwanda Revenue Authority,0.0,0.0,2023,Unknown
+Nyagatare,E-Visa Service,Immigration Department,3241.0,0.0,2021,Jun
+Kicukiro,Irembo Services,Ministry of Health,0.0,0.0,2021,Jan
+Nyagatare,Digital Health Records,Ministry of ICT,4732.0,76.3,2023,Aug
+Nyarugenge,Land Registration Portal,Ministry of ICT,0.0,97.6,2022,Mar
+Nyarugenge,Digital Health Records,Ministry of Health,0.0,81.9,2021,Apr
+Kayonza,eTax Portal,Ministry of Lands,0.0,94.2,2022,Unknown
+Nyarugenge,Irembo Services,Immigration Department,148.0,89.7,2021,Jul
+Burera,E-Visa Service,Ministry of Lands,0.0,0.0,2021,Sep
+Rubavu,eTax Portal,Ministry of Health,0.0,0.0,2021,Sep
+Rubavu,Online Business Registration,Immigration Department,2919.0,0.0,2021,Nov
+Kayonza,Digital Health Records,Ministry of ICT,3841.0,77.8,2024,Aug
+Burera,Digital Health Records,Ministry of ICT,4117.0,0.0,2022,Jul
+Rwamagana,Online Business Registration,Ministry of Lands,4543.0,0.0,2022,Nov
+Rusizi,eTax Portal,Rwanda Revenue Authority,0.0,0.0,2021,Aug
+Nyanza,Irembo Services,Ministry of Health,0.0,90.5,2021,Jul
+Nyamagabe,E-Visa Service,Ministry of Health,1268.0,81.2,2022,Dec
+Huye,eTax Portal,Ministry of Lands,4785.0,71.2,2024,Unknown
+Burera,Land Registration Portal,Ministry of Health,0.0,58.4,2023,Aug
+Huye,E-Visa Service,Ministry of ICT,1004.0,93.5,2023,Aug
+Ngoma,eTax Portal,Ministry of Lands,4615.0,60.8,2022,Mar
+Gakenke,Irembo Services,Ministry of ICT,0.0,58.9,2021,Feb
+Bugesera,Digital Health Records,Immigration Department,0.0,0.0,2021,Oct
+Rulindo,eTax Portal,Immigration Department,3486.0,60.3,2024,Jan
+Nyanza,Online Business Registration,Rwanda Revenue Authority,0.0,0.0,2023,Unknown
+Rulindo,Irembo Services,Ministry of Health,3404.0,81.6,2024,Unknown
+Musanze,Digital Health Records,Immigration Department,275.0,0.0,2023,Apr
+Nyagatare,Irembo Services,Ministry of Health,4943.0,63.7,2022,May
+Nyagatare,E-Visa Service,Ministry of ICT,1009.0,84.8,2023,Jan
+Nyarugenge,Online Business Registration,Ministry of Lands,0.0,72.1,2024,May
+Karongi,E-Visa Service,Immigration Department,865.0,85.9,2024,Apr
+Gasabo,E-Visa Service,Ministry of Lands,0.0,0.0,2024,Sep
+Burera,Land Registration Portal,Immigration Department,0.0,56.4,2022,May
+Nyagatare,Irembo Services,Ministry of Health,0.0,0.0,2023,Mar
+Nyagatare,Irembo Services,Immigration Department,0.0,78.9,2023,Unknown
+Gasabo,eTax Portal,Immigration Department,0.0,0.0,2024,Aug
+Nyarugenge,Online Business Registration,Ministry of ICT,0.0,54.3,2023,Oct
+Kicukiro,Online Business Registration,Rwanda Revenue Authority,0.0,79.8,2021,Dec
+Nyagatare,Land Registration Portal,Ministry of ICT,3470.0,66.2,2021,Unknown
+Nyarugenge,Online Business Registration,Ministry of Lands,351.0,67.2,2021,Unknown
+Kicukiro,Irembo Services,Ministry of Health,656.0,53.5,2023,Aug
+Karongi,Land Registration Portal,Ministry of Health,749.0,0.0,2022,Sep
+Nyarugenge,Online Business Registration,Immigration Department,1189.0,90.0,2022,Sep
+Nyanza,Land Registration Portal,Ministry of Health,2350.0,0.0,2022,Feb
+Nyagatare,Online Business Registration,Rwanda Revenue Authority,3025.0,0.0,2022,Oct
+Rusizi,Online Business Registration,Rwanda Revenue Authority,0.0,0.0,2021,Feb
+Kayonza,eTax Portal,Immigration Department,0.0,66.2,2021,May
+Huye,Online Business Registration,Immigration Department,2115.0,0.0,2024,Unknown
+Burera,Land Registration Portal,Ministry of Lands,619.0,0.0,2023,Sep
+Rubavu,Irembo Services,Immigration Department,0.0,68.1,2023,Unknown
+Kayonza,eTax Portal,Ministry of ICT,0.0,0.0,2022,Jun
+Nyagatare,Online Business Registration,Ministry of ICT,0.0,0.0,2021,Sep
+Kayonza,Online Business Registration,Ministry of ICT,0.0,0.0,2022,Unknown
+Nyamagabe,Land Registration Portal,Rwanda Revenue Authority,0.0,98.1,2024,Unknown
+Huye,eTax Portal,Ministry of Health,0.0,84.5,2023,Jan
+Musanze,Online Business Registration,Ministry of Lands,0.0,0.0,2023,Unknown
+Musanze,Irembo Services,Immigration Department,0.0,54.8,2022,Dec
+Nyamagabe,E-Visa Service,Ministry of Lands,0.0,0.0,2024,Aug
+Bugesera,Irembo Services,Rwanda Revenue Authority,1891.0,0.0,2023,Sep
+Nyamagabe,Online Business Registration,Immigration Department,2505.0,99.1,2024,Apr
+Nyamagabe,Irembo Services,Immigration Department,3000.0,96.4,2024,Jul
+Rulindo,eTax Portal,Rwanda Revenue Authority,4181.0,56.0,2022,Feb
+Kicukiro,Online Business Registration,Ministry of Health,4165.0,57.6,2021,Dec
+Musanze,Land Registration Portal,Immigration Department,0.0,0.0,2022,Unknown
+Kicukiro,eTax Portal,Ministry of Health,0.0,77.0,2021,Nov
+Gakenke,Irembo Services,Rwanda Revenue Authority,1021.0,0.0,2024,Unknown
+Karongi,Online Business Registration,Ministry of Lands,0.0,0.0,2021,Apr
+Musanze,eTax Portal,Immigration Department,0.0,0.0,2024,May
+Nyagatare,Irembo Services,Ministry of Health,2824.0,0.0,2023,Unknown
+Huye,Online Business Registration,Immigration Department,903.0,0.0,2023,Jan
+Huye,E-Visa Service,Ministry of Health,0.0,0.0,2023,Aug
+Burera,Digital Health Records,Immigration Department,0.0,55.9,2022,May
+Rulindo,Land Registration Portal,Immigration Department,0.0,0.0,2022,Jun
+Rubavu,Irembo Services,Immigration Department,0.0,0.0,2024,Unknown
+Nyamagabe,E-Visa Service,Ministry of Lands,4983.0,96.8,2023,Unknown
+Rwamagana,Irembo Services,Immigration Department,2541.0,75.5,2022,Feb
+Rusizi,Digital Health Records,Ministry of Health,0.0,69.8,2023,Aug
+Rulindo,Digital Health Records,Ministry of Lands,0.0,0.0,2022,Unknown
+Nyagatare,eTax Portal,Ministry of ICT,54.0,75.8,2021,Feb
+Nyarugenge,Land Registration Portal,Ministry of Health,4919.0,89.3,2021,Unknown
+Rulindo,Land Registration Portal,Ministry of Health,0.0,99.6,2023,Unknown
+Burera,Irembo Services,Ministry of ICT,4192.0,0.0,2024,Apr
+Musanze,Digital Health Records,Ministry of Lands,0.0,0.0,2022,Apr
+Kicukiro,Land Registration Portal,Immigration Department,0.0,77.0,2022,Unknown
+Burera,Online Business Registration,Ministry of Health,1743.0,0.0,2021,Dec
+Gasabo,Land Registration Portal,Ministry of ICT,0.0,0.0,2021,Oct
+Nyarugenge,Irembo Services,Immigration Department,880.0,0.0,2024,Dec
+Nyagatare,E-Visa Service,Ministry of Lands,0.0,0.0,2024,Jun
+Rwamagana,E-Visa Service,Ministry of Health,1419.0,54.0,2024,Unknown
+Nyamagabe,Land Registration Portal,Immigration Department,0.0,51.1,2023,Dec
+Kayonza,eTax Portal,Immigration Department,2888.0,0.0,2021,Oct
+Kayonza,Digital Health Records,Rwanda Revenue Authority,1981.0,0.0,2023,Nov
+Huye,E-Visa Service,Ministry of ICT,0.0,82.0,2021,Jul
+Gakenke,Irembo Services,Immigration Department,4779.0,78.8,2021,Mar
+Kicukiro,Irembo Services,Ministry of Lands,0.0,0.0,2022,Oct
+Rwamagana,Digital Health Records,Rwanda Revenue Authority,609.0,80.3,2021,Mar
+Gakenke,Digital Health Records,Immigration Department,4633.0,0.0,2021,Unknown
+Gasabo,Digital Health Records,Immigration Department,3393.0,0.0,2023,Apr
+Gakenke,E-Visa Service,Ministry of Lands,0.0,75.1,2021,Unknown
+Rusizi,Irembo Services,Rwanda Revenue Authority,1520.0,91.3,2023,Apr
+Rulindo,Digital Health Records,Rwanda Revenue Authority,2344.0,0.0,2024,Unknown
+Ngoma,E-Visa Service,Ministry of ICT,0.0,0.0,2021,Jan
+Nyamagabe,Digital Health Records,Immigration Department,1729.0,0.0,2021,Oct
+Burera,Irembo Services,Ministry of ICT,2794.0,0.0,2023,Jun
+Kayonza,Irembo Services,Rwanda Revenue Authority,0.0,0.0,2024,Sep
+Rubavu,eTax Portal,Ministry of ICT,3168.0,79.7,2022,May
+Huye,Land Registration Portal,Ministry of Lands,0.0,0.0,2024,Oct
+Ngoma-,Online Business Registration,Ministry of Health,3109.0,63.9,2023,Sep
+Huye,Irembo Services,Ministry of Lands,0.0,82.0,2024,Mar
+Kicukiro,Online Business Registration,Rwanda Revenue Authority,2529.0,0.0,2023,Jun
+Burera,eTax Portal,Ministry of Lands,0.0,82.5,2023,Dec
+Kicukiro,Land Registration Portal,Rwanda Revenue Authority,1807.0,69.3,2022,May
+Karongi,E-Visa Service,Ministry of Lands,0.0,0.0,2021,May
+Kicukiro,Land Registration Portal,Immigration Department,0.0,0.0,2023,Oct
+Kicukiro,Land Registration Portal,Immigration Department,0.0,99.7,2023,May
+Kayonza,E-Visa Service,Ministry of Lands,1681.0,81.0,2022,Unknown
+Nyanza,eTax Portal,Ministry of ICT,1065.0,99.2,2023,Sep
+Nyanza,Digital Health Records,Rwanda Revenue Authority,0.0,58.5,2021,Nov
+Rwamagana,Land Registration Portal,Immigration Department,0.0,0.0,2022,Unknown
+Kicukiro,Land Registration Portal,Rwanda Revenue Authority,0.0,63.3,2021,Feb
+Nyanza,eTax Portal,Immigration Department,0.0,0.0,2021,Mar
+Nyarugenge,Digital Health Records,Ministry of Health,0.0,0.0,2022,Unknown
+Rwamagana,Land Registration Portal,Ministry of Lands,0.0,99.8,2023,Unknown
+Nyarugenge,Land Registration Portal,Immigration Department,0.0,0.0,2021,Jul
+Nyarugenge,Digital Health Records,Ministry of Lands,1618.0,0.0,2021,Jan
+Nyagatare,Irembo Services,Ministry of Health,2788.0,0.0,2021,May
+Gakenke,E-Visa Service,Rwanda Revenue Authority,3963.0,71.3,2021,Unknown
+Musanze,Irembo Services,Ministry of Lands,4430.0,89.6,2022,Nov
+Nyagatare,E-Visa Service,Immigration Department,4157.0,72.5,2022,Mar
+Kicukiro,E-Visa Service,Ministry of Health,0.0,67.7,2024,Dec
+Nyarugenge,Land Registration Portal,Immigration Department,0.0,0.0,2024,Unknown
+Nyamagabe,E-Visa Service,Ministry of Health,2132.0,58.8,2021,Mar
+Nyanza,Online Business Registration,Ministry of Health,0.0,0.0,2023,Apr
+Karongi,Digital Health Records,Immigration Department,825.0,0.0,2021,Mar
+Rusizi,Digital Health Records,Ministry of Lands,0.0,0.0,2023,Dec
+Huye,Online Business Registration,Rwanda Revenue Authority,467.0,89.5,2021,Jun
+Karongi,Digital Health Records,Rwanda Revenue Authority,666.0,0.0,2024,Unknown
+Nyagatare,eTax Portal,Ministry of Health,0.0,59.5,2024,Apr
+Rusizi,Digital Health Records,Immigration Department,1566.0,60.8,2023,Unknown
+Gakenke,Digital Health Records,Ministry of Health,0.0,91.7,2021,Unknown
+Rubavu,Digital Health Records,Rwanda Revenue Authority,778.0,0.0,2023,Nov
+Ngoma,E-Visa Service,Ministry of Health,0.0,0.0,2024,Jul
+Rulindo,Irembo Services,Ministry of Health,3515.0,74.4,2021,Aug
+Karongi,eTax Portal,Rwanda Revenue Authority,0.0,63.3,2021,Mar
+Nyarugenge,Digital Health Records,Ministry of Lands,2836.0,0.0,2023,Oct
+Gasabo,eTax Portal,Ministry of Health,0.0,63.3,2022,Nov
+Rulindo,E-Visa Service,Ministry of Lands,0.0,0.0,2023,May
+Musanze,eTax Portal,Ministry of Health,0.0,0.0,2024,Nov
+Nyarugenge,eTax Portal,Immigration Department,0.0,0.0,2024,Jul
+Burera,Online Business Registration,Ministry of Health,3490.0,90.5,2024,Jul
+Huye,E-Visa Service,Ministry of Health,2376.0,0.0,2024,Aug
+Nyanza,Digital Health Records,Ministry of ICT,2964.0,0.0,2024,Feb
+Rusizi,Irembo Services,Immigration Department,0.0,94.6,2022,Nov
+Rubavu,Irembo Services,Immigration Department,0.0,0.0,2021,Unknown
+Bugesera,Irembo Services,Ministry of Lands,0.0,65.8,2023,Unknown
+Nyarugenge,Irembo Services,Ministry of Lands,4542.0,0.0,2023,Feb
+Nyagatare,Digital Health Records,Ministry of Health,445.0,0.0,2024,Jul
+Bugesera,Irembo Services,Rwanda Revenue Authority,4221.0,0.0,2023,Sep
+Ngoma,E-Visa Service,Ministry of Health,0.0,95.1,2024,Dec
+Rwamagana,E-Visa Service,Ministry of ICT,767.0,91.3,2022,May
+Rulindo,eTax Portal,Ministry of Health,0.0,83.0,2022,Dec
+Burera,Online Business Registration,Ministry of ICT,193.0,72.5,2021,Jun
+Ngoma,Land Registration Portal,Ministry of Health,3190.0,0.0,2022,Aug
+Nyanza,Irembo Services,Ministry of Lands,4541.0,72.5,2022,Aug
+Gasabo,Land Registration Portal,Ministry of Health,2988.0,0.0,2021,Jun
+Burera,Land Registration Portal,Ministry of Lands,3686.0,99.4,2023,Oct
+Ngoma,Land Registration Portal,Rwanda Revenue Authority,1217.0,84.0,2024,Jan
+Musanze,eTax Portal,Rwanda Revenue Authority,1112.0,51.9,2024,Unknown
+Rubavu,E-Visa Service,Immigration Department,0.0,85.8,2023,Unknown
+Rusizi,Irembo Services,Ministry of Health,0.0,90.1,2021,Unknown
+Musanze,Digital Health Records,Immigration Department,1206.0,50.6,2023,Dec
+Musanze,eTax Portal,Ministry of Health,782.0,0.0,2022,Feb
+Burera,E-Visa Service,Rwanda Revenue Authority,0.0,0.0,2021,Dec
+Rubavu,Digital Health Records,Ministry of ICT,0.0,0.0,2021,Aug
+Rusizi,E-Visa Service,Immigration Department,0.0,88.7,2021,Nov
+Ngoma,Irembo Services,Immigration Department,0.0,89.2,2024,Nov
+Huye,eTax Portal,Rwanda Revenue Authority,0.0,58.7,2023,Dec
+Karongi,Land Registration Portal,Rwanda Revenue Authority,3043.0,0.0,2021,Jun
+Huyex,eTax Portal,Ministry of ICT,0.0,0.0,2021,Unknown
+Rusizi,eTax Portal,Immigration Department,1590.0,71.2,2021,Feb
+Nyanza,Irembo Services,Rwanda Revenue Authority,0.0,0.0,2023,Unknown
+Kayonza,Land Registration Portal,Rwanda Revenue Authority,0.0,0.0,2024,Sep
+Rusizi,Land Registration Portal,Ministry of ICT,1438.0,88.5,2022,Jul
+Kicukiro,Online Business Registration,Ministry of ICT,0.0,98.8,2024,Apr
+Nyarugenge,Online Business Registration,Ministry of Lands,1730.0,60.3,2021,Jul
+Nyamagabe,E-Visa Service,Ministry of Health,4362.0,0.0,2024,Unknown
+Rusizi,Digital Health Records,Ministry of Lands,0.0,88.7,2024,Apr
+Kicukiro,Online Business Registration,Ministry of ICT,0.0,98.0,2022,Aug
+Gasabo,Irembo Services,Rwanda Revenue Authority,3536.0,0.0,2023,May
+Karongi,eTax Portal,Ministry of ICT,0.0,0.0,2023,Jun
+Rubavu,Land Registration Portal,Immigration Department,2264.0,0.0,2024,Unknown
+Rusizi,eTax Portal,Rwanda Revenue Authority,0.0,55.7,2024,May
+Rwamagana,Irembo Services,Ministry of Lands,3652.0,79.1,2023,Jun
+Rulindo,eTax Portal,Ministry of Lands,3572.0,0.0,2023,Sep
+Burera,Land Registration Portal,Ministry of Lands,0.0,82.8,2022,Oct
+Nyamagabe,Online Business Registration,Rwanda Revenue Authority,0.0,52.2,2021,Mar
+Burera,Digital Health Records,Ministry of Health,0.0,96.4,2024,Oct
+Gasabo,Land Registration Portal,Ministry of Health,505.0,0.0,2023,Unknown
+Musanze,Land Registration Portal,Ministry of Health,944.0,0.0,2024,Aug
+Nyarugenge,Land Registration Portal,Ministry of ICT,2008.0,0.0,2024,Unknown
+Rubavu,E-Visa Service,Ministry of ICT,0.0,0.0,2023,Jun
+Burera,E-Visa Service,Immigration Department,4335.0,0.0,2022,Nov
+Kicukiro,Land Registration Portal,Rwanda Revenue Authority,0.0,0.0,2024,Unknown
+Bugesera,Irembo Services,Immigration Department,3490.0,50.6,2022,Jan
+Burera,Land Registration Portal,Ministry of ICT,873.0,0.0,2023,Jan
+Rubavu,E-Visa Service,Rwanda Revenue Authority,0.0,65.8,2021,Feb
+Nyamagabe,E-Visa Service,Ministry of Lands,3677.0,92.3,2021,Nov
+Rubavu,eTax Portal,Rwanda Revenue Authority,1902.0,77.2,2024,Unknown
+Kicukiro,Irembo Services,Ministry of ICT,0.0,87.8,2023,Unknown
+Ngoma,Online Business Registration,Ministry of Lands,3334.0,0.0,2022,Aug
+Bugesera,eTax Portal,Ministry of Lands,2861.0,86.4,2024,Jan
+Kicukiro,E-Visa Service,Rwanda Revenue Authority,1300.0,0.0,2023,Feb
+Bugesera,eTax Portal,Ministry of Health,0.0,0.0,2023,Unknown
+Huye,eTax Portal,Ministry of ICT,1306.0,87.7,2022,Mar
+Nyagatare,eTax Portal,Ministry of ICT,3536.0,96.9,2024,Aug
+Musanze,Irembo Services,Ministry of Health,0.0,0.0,2023,Aug
+Bugesera,Online Business Registration,Immigration Department,0.0,56.6,2023,Jan
+Burera,Online Business Registration,Immigration Department,520.0,0.0,2023,Jul
+Nyamagabe,Land Registration Portal,Ministry of ICT,0.0,60.7,2022,Apr
+Rubavu,E-Visa Service,Ministry of Health,0.0,0.0,2024,Dec
+Nyagatare,Digital Health Records,Ministry of Health,0.0,86.6,2024,Mar
+Rwamagana,Irembo Services,Ministry of Lands,717.0,87.9,2024,Nov
+Rwamagana,Online Business Registration,Immigration Department,0.0,75.4,2024,May
+Nyamagabe,E-Visa Service,Immigration Department,0.0,55.3,2021,Mar
+Gasabo,E-Visa Service,Ministry of Lands,0.0,84.4,2021,Unknown
+Rwamagana,Irembo Services,Rwanda Revenue Authority,0.0,78.9,2024,May
+Karongi,Irembo Services,Immigration Department,0.0,88.1,2022,Feb
+Nyamagabe,E-Visa Service,Ministry of Lands,3825.0,0.0,2021,Nov
+Nyagatare,Land Registration Portal,Ministry of Health,0.0,50.5,2023,Jun
+Rusizi,Online Business Registration,Rwanda Revenue Authority,974.0,87.1,2021,May
+Rwamagana,Digital Health Records,Ministry of ICT,1631.0,0.0,2023,Feb
+Musanze,Digital Health Records,Ministry of Health,0.0,0.0,2024,Jun
+Gakenke,Digital Health Records,Rwanda Revenue Authority,305.0,90.0,2021,Nov
+Kicukiro,eTax Portal,Ministry of Lands,1888.0,65.5,2022,Nov
+Kayonza,Online Business Registration,Ministry of Health,0.0,86.7,2021,Mar
+Nyagatare,eTax Portal,Rwanda Revenue Authority,0.0,0.0,2021,Jan
+Huye,eTax Portal,Ministry of ICT,1065.0,67.8,2021,Jul
+Rulindo,E-Visa Service,Ministry of Health,4519.0,0.0,2024,Nov
+Bugesera,eTax Portal,Ministry of Health,0.0,0.0,2022,May
+Ngoma,Land Registration Portal,Immigration Department,0.0,0.0,2021,Dec
+Nyagatare,Land Registration Portal,Rwanda Revenue Authority,4208.0,0.0,2022,Dec
+Nyagatare,Irembo Services,Rwanda Revenue Authority,3975.0,87.5,2024,Unknown
+Gasabo,Irembo Services,Immigration Department,4834.0,68.4,2023,Apr
+Huye,Online Business Registration,Ministry of Lands,0.0,87.8,2021,Jul
+Gakenke,Online Business Registration,Ministry of Lands,2202.0,0.0,2022,Nov
+Karongi,Land Registration Portal,Immigration Department,560.0,0.0,2022,Feb
+Rusizi,Irembo Services,Ministry of Health,0.0,68.4,2024,Dec
+Nyarugenge,E-Visa Service,Ministry of ICT,0.0,0.0,2021,Feb
+Rusizi,Irembo Services,Ministry of Lands,2050.0,94.3,2023,Jan
+Bugesera,eTax Portal,Ministry of ICT,0.0,0.0,2022,Apr
+Nyanza,Digital Health Records,Rwanda Revenue Authority,1510.0,0.0,2021,Aug
+Gakenke,E-Visa Service,Rwanda Revenue Authority,3686.0,0.0,2023,Feb
+Burera,Digital Health Records,Ministry of Lands,0.0,0.0,2022,Mar
+Karongi,Digital Health Records,Ministry of Health,4228.0,59.1,2022,Oct
+Gasabo,Land Registration Portal,Rwanda Revenue Authority,2098.0,54.6,2023,Apr
+Musanze,Digital Health Records,Ministry of ICT,4830.0,93.7,2023,Sep
+Rusizi,Digital Health Records,Ministry of Health,4594.0,0.0,2024,Nov
+Rwamagana,eTax Portal,Ministry of Lands,0.0,0.0,2021,Aug
+Rusizi,Online Business Registration,Rwanda Revenue Authority,0.0,0.0,2021,Jan
+Kicukiro,Land Registration Portal,Ministry of Lands,0.0,0.0,2024,Jan
+Musanze,Irembo Services,Ministry of Health,0.0,0.0,2022,Dec
+Nyamagabe,eTax Portal,Ministry of Health,0.0,0.0,2023,Jun
+Bugesera,Digital Health Records,Ministry of Health,820.0,91.3,2023,Unknown
+Karongi,Irembo Services,Immigration Department,4413.0,81.8,2023,Feb
+Nyamagabe,eTax Portal,Immigration Department,0.0,52.9,2022,Unknown
+Nyanza,E-Visa Service,Ministry of ICT,0.0,0.0,2023,Jul
+Musanze,E-Visa Service,Ministry of Health,4908.0,85.4,2023,Dec
+Gakenke,Land Registration Portal,Ministry of Health,4769.0,91.3,2024,Mar
+Huye,Digital Health Records,Rwanda Revenue Authority,3424.0,0.0,2022,Aug
+Rusizi,Land Registration Portal,Ministry of ICT,3328.0,56.1,2021,Feb
+Kicukiro,E-Visa Service,Ministry of ICT,0.0,0.0,2024,Apr
+Nyamagabe,eTax Portal,Ministry of Lands,2172.0,68.6,2024,Jul
+Gasabo,Irembo Services,Ministry of Health,0.0,79.9,2021,Feb
+Nyanza,Online Business Registration,Rwanda Revenue Authority,0.0,88.3,2024,Dec
+Burera,Digital Health Records,Ministry of Lands,0.0,96.7,2022,Unknown
+Huye,Land Registration Portal,Immigration Department,1408.0,0.0,2023,Feb
+Bugesera,Irembo Services,Ministry of Health,2532.0,0.0,2022,Feb
+Nyamagabe,Irembo Services,Ministry of ICT,0.0,58.9,2021,Jun
+Nyarugenge,Online Business Registration,Ministry of Health,0.0,0.0,2021,Jun
+Karongi,eTax Portal,Ministry of Health,0.0,87.4,2024,May
+Karongi,Online Business Registration,Immigration Department,4687.0,0.0,2022,Mar
+Musanze,Online Business Registration,Rwanda Revenue Authority,3227.0,0.0,2022,Jul
+Ngoma,eTax Portal,Rwanda Revenue Authority,2178.0,0.0,2021,Unknown
+Nyanza,eTax Portal,Rwanda Revenue Authority,0.0,58.3,2022,Unknown
+Ngoma,eTax Portal,Ministry of Lands,0.0,0.0,2021,Unknown
+Nyamagabe,Irembo Services,Rwanda Revenue Authority,0.0,0.0,2022,Unknown
+Karongi,Irembo Services,Ministry of Lands,0.0,75.9,2022,Mar
+Gakenke,Digital Health Records,Immigration Department,3081.0,89.1,2022,Nov
+Ngoma,E-Visa Service,Ministry of Health,0.0,0.0,2021,Nov
+Burera,Digital Health Records,Ministry of Lands,0.0,61.3,2024,Mar
+Rubavu,Online Business Registration,Immigration Department,3868.0,92.1,2022,Feb
+Huye,Online Business Registration,Ministry of Lands,3873.0,74.0,2021,Sep
+Nyamagabe,Digital Health Records,Immigration Department,1956.0,72.9,2021,Oct
+Gakenke,Land Registration Portal,Rwanda Revenue Authority,810.0,0.0,2022,Jan
+Rwamagana,E-Visa Service,Rwanda Revenue Authority,0.0,54.0,2022,Oct
+Ngoma,Online Business Registration,Immigration Department,0.0,95.2,2024,Nov
+Gakenke,Land Registration Portal,Ministry of ICT,0.0,71.8,2021,Mar
+Burera,Land Registration Portal,Immigration Department,330.0,50.4,2021,Aug
+Gasabo,E-Visa Service,Ministry of Lands,1937.0,0.0,2023,Jun
+Ngoma,eTax Portal,Immigration Department,716.0,56.6,2021,Dec
+Ngoma,Irembo Services,Ministry of Health,0.0,0.0,2024,Apr
+Huye,Digital Health Records,Ministry of ICT,0.0,73.6,2023,Nov
+Nyamagabe,E-Visa Service,Immigration Department,3172.0,0.0,2023,Dec
+Karongi,Irembo Services,Ministry of ICT,0.0,0.0,2023,Mar
+Rulindo,Digital Health Records,Ministry of ICT,0.0,63.1,2022,Jul
+Rulindo,Irembo Services,Immigration Department,0.0,0.0,2022,Oct
+Rulindo,Digital Health Records,Immigration Department,0.0,0.0,2021,Nov
+Huyex,Irembo Services,Rwanda Revenue Authority,0.0,68.6,2023,Aug
+Nyanza,eTax Portal,Immigration Department,1803.0,72.5,2024,Unknown
+Kayonza,Land Registration Portal,Immigration Department,2346.0,63.4,2022,Apr
+Rwamagana,Digital Health Records,Rwanda Revenue Authority,2311.0,0.0,2024,Feb
+Nyarugenge,Land Registration Portal,Rwanda Revenue Authority,4252.0,0.0,2024,Feb
+Ngoma,Digital Health Records,Ministry of Health,4193.0,95.3,2022,Mar
+Nyanza,E-Visa Service,Immigration Department,0.0,0.0,2022,Unknown
+Karongi,E-Visa Service,Ministry of Lands,2105.0,70.6,2022,Feb
+Nyarugenge,Digital Health Records,Ministry of ICT,0.0,54.3,2022,Oct
+Nyagatare,eTax Portal,Rwanda Revenue Authority,2816.0,0.0,2023,Dec
+Ngoma,Irembo Services,Immigration Department,0.0,0.0,2023,Jul
+Nyagatare,Digital Health Records,Ministry of Lands,0.0,78.0,2023,Jun
+Huye,Irembo Services,Ministry of ICT,0.0,0.0,2023,Jul
+Rubavu,eTax Portal,Immigration Department,0.0,0.0,2021,Jun
+Gasabo,Online Business Registration,Ministry of Lands,0.0,81.2,2023,Unknown
+Kicukiro,Land Registration Portal,Ministry of ICT,4671.0,0.0,2022,Mar
+Nyagatare,Digital Health Records,Ministry of Lands,1696.0,57.2,2024,Apr
+Kayonza,E-Visa Service,Rwanda Revenue Authority,2847.0,0.0,2023,May
+Nyarugenge,eTax Portal,Immigration Department,1581.0,66.9,2021,Nov
+Rulindo,Irembo Services,Ministry of Lands,0.0,0.0,2022,Feb
+Nyamagabe,Digital Health Records,Ministry of Lands,1956.0,98.4,2024,Apr
+Huye,Irembo Services,Immigration Department,0.0,0.0,2024,Sep
+Gakenke,Online Business Registration,Ministry of ICT,763.0,86.0,2023,Oct
+Kayonza,Digital Health Records,Immigration Department,2026.0,62.5,2024,Oct
+Gakenke,Land Registration Portal,Ministry of Lands,0.0,84.2,2023,Dec
+Nyagatare,Digital Health Records,Ministry of Health,4682.0,76.2,2023,Oct
+Rubavu,Land Registration Portal,Ministry of ICT,0.0,0.0,2022,May
+Gasabo,Irembo Services,Ministry of Lands,0.0,86.1,2022,Unknown
+Musanze,Digital Health Records,Ministry of Health,116.0,89.6,2021,Dec
+Nyamagabe,eTax Portal,Ministry of ICT,0.0,0.0,2022,Jan
+Nyagatare,E-Visa Service,Rwanda Revenue Authority,0.0,0.0,2022,Unknown
+Rwamagana,eTax Portal,Immigration Department,0.0,74.2,2023,Unknown
+Nyanza,Online Business Registration,Ministry of ICT,0.0,0.0,2022,Nov
+Rulindo,eTax Portal,Ministry of ICT,4057.0,0.0,2023,May
+Kicukiro,Online Business Registration,Ministry of Lands,2522.0,0.0,2023,Apr
+Burera,Irembo Services,Ministry of Health,0.0,70.6,2022,Sep
+Nyagatare,Land Registration Portal,Ministry of ICT,1811.0,0.0,2021,Oct
+Musanze,E-Visa Service,Immigration Department,2025.0,0.0,2021,Sep
+Rulindo,Irembo Services,Ministry of ICT,0.0,55.6,2024,Apr
+Rubavu,Land Registration Portal,Ministry of ICT,3862.0,0.0,2024,Dec
+Rulindo,Land Registration Portal,Ministry of Lands,1362.0,89.7,2022,Jul
+Nyanza,Online Business Registration,Ministry of ICT,2759.0,60.1,2021,May
+Burera,eTax Portal,Ministry of Health,0.0,0.0,2023,Nov
+Karongi,eTax Portal,Ministry of Lands,0.0,0.0,2024,Jan
+Rulindo,E-Visa Service,Rwanda Revenue Authority,0.0,87.7,2023,Unknown
+Nyanza,E-Visa Service,Rwanda Revenue Authority,2447.0,60.2,2024,Unknown
+Nyamagabe,Online Business Registration,Ministry of Lands,3785.0,0.0,2022,Apr
+Burera,Online Business Registration,Ministry of Health,1210.0,93.5,2021,Aug
+Rulindo,Irembo Services,Ministry of Lands,292.0,0.0,2024,Jul
+Rwamagana,Online Business Registration,Ministry of Lands,1113.0,0.0,2021,Feb
+Kayonza,eTax Portal,Ministry of Lands,0.0,0.0,2023,Apr
+Rulindo,Online Business Registration,Ministry of Lands,0.0,0.0,2022,Aug
+Rusizi,Online Business Registration,Ministry of ICT,0.0,0.0,2021,Nov
+Nyagatare,Land Registration Portal,Immigration Department,0.0,0.0,2022,Oct
+Rusizi,Online Business Registration,Rwanda Revenue Authority,0.0,89.9,2021,Feb
+Nyanza,E-Visa Service,Ministry of Health,0.0,82.8,2023,Sep
+Kayonza,Irembo Services,Ministry of ICT,0.0,69.9,2023,Jan
+Nyagatare,Online Business Registration,Rwanda Revenue Authority,4339.0,88.8,2022,Jun
+Rusizi,E-Visa Service,Immigration Department,0.0,0.0,2023,Jun
+Rulindo,Digital Health Records,Ministry of Lands,0.0,0.0,2024,Mar
+Nyarugenge,Digital Health Records,Immigration Department,0.0,67.8,2021,Jul
+Ngoma,Land Registration Portal,Rwanda Revenue Authority,0.0,78.9,2023,Unknown
+Nyagatare,Land Registration Portal,Rwanda Revenue Authority,0.0,65.6,2024,Unknown
+Rusizi,Digital Health Records,Ministry of ICT,4704.0,0.0,2022,Oct
+Karongi-,E-Visa Service,Ministry of ICT,0.0,0.0,2024,Jul
+Karongi,Land Registration Portal,Ministry of Health,1623.0,0.0,2022,Jun
+Burera,E-Visa Service,Ministry of Lands,1967.0,0.0,2022,Sep
+Nyarugenge,E-Visa Service,Immigration Department,2076.0,65.8,2021,Nov
+Rubavu,Land Registration Portal,Ministry of Lands,0.0,68.2,2021,Mar
+Rubavu,eTax Portal,Immigration Department,0.0,0.0,2024,Unknown
+Nyagatare,E-Visa Service,Ministry of Lands,59.0,0.0,2021,Aug
+Gakenke,eTax Portal,Rwanda Revenue Authority,0.0,0.0,2021,Unknown
+Rubavu,Online Business Registration,Rwanda Revenue Authority,0.0,0.0,2021,Feb
+Huye,Digital Health Records,Ministry of Lands,0.0,82.7,2024,Jan
+Nyarugenge,Irembo Services,Ministry of Health,370.0,0.0,2023,Oct
+Nyamagabe,Digital Health Records,Rwanda Revenue Authority,2426.0,0.0,2021,Feb
+Nyamagabe,Digital Health Records,Ministry of Health,2874.0,92.8,2021,Jan
+Karongix,E-Visa Service,Rwanda Revenue Authority,0.0,0.0,2024,May
+Burera,eTax Portal,Ministry of ICT,2088.0,66.0,2023,Apr
+Rulindo,eTax Portal,Ministry of ICT,3727.0,70.9,2021,Jan
+Nyamagabe,Land Registration Portal,Ministry of Lands,0.0,0.0,2022,Jan
+Kicukiro,Irembo Services,Immigration Department,0.0,0.0,2024,Unknown
+Huye,eTax Portal,Ministry of ICT,0.0,0.0,2021,Jul
+Nyamagabe,Land Registration Portal,Rwanda Revenue Authority,0.0,71.4,2021,Sep
+Gakenke,Irembo Services,Rwanda Revenue Authority,3580.0,56.5,2022,May
+Gasabo,eTax Portal,Ministry of ICT,2685.0,78.0,2022,Nov
+Gakenke,Digital Health Records,Ministry of ICT,1620.0,0.0,2024,Dec
+Kayonza,Digital Health Records,Immigration Department,0.0,0.0,2024,Sep
+Gasabo,Irembo Services,Ministry of ICT,0.0,69.0,2022,Unknown
+Bugeserax,Irembo Services,Ministry of Lands,3900.0,59.4,2024,Jul
+Ngoma,eTax Portal,Immigration Department,0.0,0.0,2022,Jul
+Gakenke,eTax Portal,Ministry of ICT,1364.0,77.0,2021,Dec
+Nyamagabe,Irembo Services,Rwanda Revenue Authority,2948.0,88.0,2022,Jul
+Burera,E-Visa Service,Ministry of ICT,0.0,73.6,2022,Feb
+Burera,Irembo Services,Ministry of Lands,0.0,82.6,2023,Nov
+Nyagatare,Land Registration Portal,Ministry of Lands,650.0,0.0,2022,Sep
+Kayonza,Land Registration Portal,Rwanda Revenue Authority,1115.0,0.0,2022,Sep
+Nyagatare,Land Registration Portal,Immigration Department,0.0,0.0,2023,Oct
+Rusizi,Digital Health Records,Rwanda Revenue Authority,1913.0,0.0,2024,Mar
+Nyamagabe,Digital Health Records,Ministry of ICT,0.0,0.0,2023,May
+Kayonza,Land Registration Portal,Rwanda Revenue Authority,3812.0,86.0,2021,Feb
+Gasabo,Land Registration Portal,Immigration Department,4720.0,57.1,2023,May
+Gakenke,E-Visa Service,Ministry of Health,1042.0,0.0,2021,Feb
+Karongi,Irembo Services,Rwanda Revenue Authority,2242.0,87.4,2024,Sep
+Gakenke,Digital Health Records,Immigration Department,3104.0,0.0,2023,Apr
+Rwamagana,Land Registration Portal,Ministry of Health,0.0,67.6,2023,Unknown
+Rulindo,E-Visa Service,Immigration Department,0.0,0.0,2024,Mar
+Rubavu,Online Business Registration,Immigration Department,2201.0,99.0,2021,Sep
+Burera,eTax Portal,Ministry of Health,3160.0,51.6,2023,Jun
+Gasabo,Land Registration Portal,Rwanda Revenue Authority,0.0,0.0,2021,Jul
+Gakenke,Digital Health Records,Ministry of Health,2676.0,0.0,2023,Oct
+Gasabo,Land Registration Portal,Rwanda Revenue Authority,0.0,53.5,2022,Nov
+Nyarugenge,Online Business Registration,Immigration Department,0.0,0.0,2023,Unknown
+Nyamagabe,Irembo Services,Rwanda Revenue Authority,1304.0,0.0,2024,Unknown
+Rubavu,Digital Health Records,Ministry of Lands,469.0,0.0,2024,Nov
+Rulindo,Irembo Services,Ministry of Health,2647.0,0.0,2021,Nov
+Rwamagana,eTax Portal,Ministry of Health,1170.0,93.3,2023,Nov
+Kicukiro,E-Visa Service,Ministry of ICT,1000.0,65.3,2021,Feb
+Rusizi,Irembo Services,Immigration Department,0.0,53.4,2021,May
+Gakenke,Land Registration Portal,Immigration Department,0.0,0.0,2022,Dec
+Karongi,E-Visa Service,Rwanda Revenue Authority,4662.0,0.0,2022,Jul
+Huye,Online Business Registration,Ministry of Lands,1915.0,93.6,2024,Dec
+Rulindo,Irembo Services,Immigration Department,2903.0,0.0,2021,Unknown
+Karongi,Online Business Registration,Ministry of Lands,0.0,0.0,2024,Apr
+Karongi,E-Visa Service,Ministry of ICT,0.0,0.0,2023,Jan
+Gakenke,Digital Health Records,Ministry of Health,3278.0,83.5,2021,Apr
+Rusizi,Digital Health Records,Ministry of Lands,0.0,0.0,2021,Feb
+Nyamagabe,Land Registration Portal,Immigration Department,0.0,0.0,2023,Jul
+Rusizi,Land Registration Portal,Ministry of Health,144.0,61.3,2023,Feb
+Nyarugenge,Land Registration Portal,Ministry of Lands,0.0,77.3,2024,Aug
+Kayonza,Online Business Registration,Ministry of Lands,843.0,70.6,2024,Oct
+Gasabo,eTax Portal,Rwanda Revenue Authority,0.0,0.0,2023,Oct
+Burera,eTax Portal,Ministry of Health,0.0,0.0,2024,Jan
+Kicukiro,eTax Portal,Ministry of Lands,0.0,0.0,2023,May
+Bugesera,Digital Health Records,Rwanda Revenue Authority,0.0,0.0,2021,Nov
+Nyagatare,Digital Health Records,Immigration Department,0.0,92.9,2021,Dec
+Nyarugenge,eTax Portal,Ministry of Lands,2399.0,98.6,2022,Nov
+Kicukiro,E-Visa Service,Rwanda Revenue Authority,0.0,87.7,2021,Dec
+Gasabo,Land Registration Portal,Rwanda Revenue Authority,0.0,92.0,2023,Mar
+Nyagatare,Irembo Services,Ministry of Health,0.0,98.1,2024,Feb
+Huye,E-Visa Service,Rwanda Revenue Authority,1034.0,0.0,2022,Jan
+Gasabo,E-Visa Service,Ministry of Lands,0.0,0.0,2024,Dec
+Rubavu,eTax Portal,Ministry of ICT,0.0,0.0,2023,Mar
+Nyagatare,Irembo Services,Immigration Department,0.0,0.0,2021,Dec
+Rubavu,eTax Portal,Ministry of Lands,2985.0,0.0,2022,Jan
+Kayonza,Irembo Services,Ministry of Lands,0.0,0.0,2023,Mar
+Musanzex,Land Registration Portal,Immigration Department,0.0,52.3,2022,Aug
+Huye,E-Visa Service,Immigration Department,3499.0,73.4,2022,Jun
+Rulindo,Digital Health Records,Rwanda Revenue Authority,4196.0,91.2,2021,Sep
+Rusizi,eTax Portal,Ministry of Lands,0.0,64.9,2023,Sep
+Bugesera,eTax Portal,Rwanda Revenue Authority,0.0,86.5,2024,Unknown
+Rwamagana,E-Visa Service,Ministry of Health,0.0,0.0,2022,Unknown
+Musanze,E-Visa Service,Rwanda Revenue Authority,0.0,0.0,2022,Dec
+Rwamagana,Land Registration Portal,Ministry of Health,0.0,0.0,2024,May
+Ngoma,Online Business Registration,Ministry of ICT,1255.0,0.0,2023,Mar
+Musanze,eTax Portal,Ministry of Lands,2922.0,59.3,2022,Jun
+Gasabo,Irembo Services,Ministry of Health,0.0,0.0,2022,Mar
+Ngoma,Land Registration Portal,Ministry of ICT,4712.0,0.0,2022,Dec
+Gakenke,E-Visa Service,Immigration Department,2758.0,71.5,2023,Unknown
+Gakenke,Online Business Registration,Rwanda Revenue Authority,1382.0,0.0,2023,Unknown
+Huye,eTax Portal,Ministry of ICT,0.0,78.7,2024,May
+Nyarugenge,eTax Portal,Ministry of Health,0.0,0.0,2023,Dec
+Nyagatare,E-Visa Service,Ministry of Lands,0.0,0.0,2023,Feb
+Musanze,E-Visa Service,Immigration Department,0.0,55.7,2021,Unknown
+Ngoma,E-Visa Service,Immigration Department,0.0,76.3,2024,Jan
+Musanze,Digital Health Records,Ministry of ICT,435.0,83.5,2022,Jun
+Kicukirox,Online Business Registration,Ministry of ICT,3331.0,0.0,2023,Unknown
+Bugesera,Land Registration Portal,Rwanda Revenue Authority,467.0,78.6,2022,Jul
+Burera,E-Visa Service,Immigration Department,0.0,0.0,2022,May
+Nyamagabe,Irembo Services,Immigration Department,0.0,0.0,2021,Sep
+Bugesera,eTax Portal,Rwanda Revenue Authority,4908.0,73.2,2023,Feb
+Nyarugenge,Land Registration Portal,Ministry of Lands,0.0,0.0,2024,May
+Nyanza,Digital Health Records,Rwanda Revenue Authority,4170.0,0.0,2023,Dec
+Karongi,E-Visa Service,Ministry of Health,4855.0,80.4,2022,Oct
+Gasabo,eTax Portal,Ministry of Health,4430.0,72.3,2024,Nov
+Nyamagabe,Online Business Registration,Ministry of ICT,0.0,0.0,2023,Feb
+Kayonza,E-Visa Service,Rwanda Revenue Authority,0.0,0.0,2022,Aug
+Musanze,E-Visa Service,Rwanda Revenue Authority,3170.0,0.0,2022,Aug
+Nyamagabe,E-Visa Service,Ministry of ICT,0.0,89.3,2021,Sep
+Bugesera,E-Visa Service,Ministry of Lands,3482.0,0.0,2021,Jun
+Rulindo,Land Registration Portal,Rwanda Revenue Authority,0.0,63.6,2021,Jan
+Rubavu,Irembo Services,Immigration Department,0.0,87.2,2022,Aug
+Nyamagabe,E-Visa Service,Rwanda Revenue Authority,0.0,0.0,2023,Unknown
+Rwamagana,E-Visa Service,Ministry of Lands,4472.0,53.5,2021,Oct
+Nyanza,Digital Health Records,Rwanda Revenue Authority,1809.0,50.1,2023,Mar
+Rusizi,Land Registration Portal,Immigration Department,1039.0,0.0,2021,Jun
+Burera,eTax Portal,Ministry of Health,2532.0,95.4,2024,Mar
+Kayonza,Irembo Services,Ministry of Health,1001.0,63.8,2024,May
+Rulindo,eTax Portal,Ministry of Lands,0.0,72.5,2021,Unknown
+Nyamagabe,eTax Portal,Ministry of Lands,2767.0,0.0,2022,Feb
+Rusizi,Online Business Registration,Immigration Department,3426.0,0.0,2021,Oct
+Karongi,Online Business Registration,Ministry of Health,0.0,0.0,2021,Nov
+Nyagatare,eTax Portal,Ministry of Health,3545.0,79.5,2022,Dec
+Nyarugenge,Digital Health Records,Ministry of Health,2115.0,0.0,2024,Feb
+Rusizi,Online Business Registration,Ministry of Health,0.0,0.0,2023,Apr
+Rulindo,Online Business Registration,Immigration Department,0.0,0.0,2021,Dec
+Nyagatare,Online Business Registration,Ministry of Lands,996.0,64.2,2022,Sep
+Rulindo,Online Business Registration,Ministry of Lands,3385.0,90.1,2021,Jan
+Gakenke,Irembo Services,Ministry of ICT,4200.0,0.0,2022,Jan
+Karongi,eTax Portal,Ministry of Lands,0.0,0.0,2023,Unknown
+Gasabo,Irembo Services,Ministry of Health,1531.0,0.0,2023,Unknown
+Kayonza,Land Registration Portal,Rwanda Revenue Authority,0.0,54.4,2024,Jan
+Karongi,Land Registration Portal,Ministry of Health,3501.0,90.9,2022,Apr
+Rwamagana,E-Visa Service,Ministry of Health,0.0,67.3,2022,Jan
+Kayonza,Land Registration Portal,Ministry of Lands,0.0,78.7,2024,Aug
+Huye,Irembo Services,Ministry of ICT,3512.0,74.7,2024,Jun
+Bugesera,E-Visa Service,Immigration Department,3129.0,52.2,2022,Jul
+Rusizi,eTax Portal,Rwanda Revenue Authority,4458.0,0.0,2024,Mar
+Karongi,Land Registration Portal,Rwanda Revenue Authority,2540.0,0.0,2023,Mar
+Rusizi,Online Business Registration,Ministry of ICT,0.0,0.0,2021,Unknown
+Rusizi,Land Registration Portal,Ministry of Health,3360.0,94.1,2023,Jan
+Burera,Digital Health Records,Immigration Department,3725.0,0.0,2024,Sep
+Gasabo,Online Business Registration,Immigration Department,0.0,83.7,2022,Unknown
+Nyanza,Online Business Registration,Immigration Department,0.0,91.2,2022,Dec
+Huye,Online Business Registration,Ministry of Lands,0.0,97.7,2023,Dec
+Nyarugenge,E-Visa Service,Ministry of Health,0.0,50.1,2022,Nov
+Nyagatare,Land Registration Portal,Rwanda Revenue Authority,0.0,0.0,2024,Jul
+Nyamagabe,Online Business Registration,Rwanda Revenue Authority,0.0,62.9,2023,Apr
+Kayonza,E-Visa Service,Ministry of Health,4475.0,0.0,2022,Jun
+Burera,Digital Health Records,Rwanda Revenue Authority,2248.0,0.0,2021,Apr
+Nyagatare,Irembo Services,Ministry of Lands,0.0,83.3,2021,Jul
+Kayonza,Digital Health Records,Immigration Department,3502.0,0.0,2024,Dec
+Kayonza,eTax Portal,Rwanda Revenue Authority,0.0,54.6,2022,Jun
+Rulindo,E-Visa Service,Ministry of Lands,0.0,0.0,2024,May
+Gasabo,E-Visa Service,Immigration Department,1970.0,0.0,2023,Unknown
+Nyarugenge,Online Business Registration,Ministry of Health,0.0,54.0,2021,Feb
+Ngoma,Digital Health Records,Ministry of Health,1459.0,0.0,2023,Oct
+Nyagatare,Land Registration Portal,Ministry of Lands,4616.0,83.4,2022,Jun
+Gakenke,eTax Portal,Ministry of Lands,0.0,82.3,2024,Feb
+Nyagatare,E-Visa Service,Ministry of Lands,0.0,0.0,2024,Sep
+Ngoma,Digital Health Records,Rwanda Revenue Authority,0.0,75.1,2024,Nov
+Bugesera,Online Business Registration,Ministry of Health,0.0,95.7,2023,Jan
+Kayonza,Land Registration Portal,Rwanda Revenue Authority,0.0,57.7,2021,Mar
+Burera,Online Business Registration,Rwanda Revenue Authority,0.0,86.2,2023,Apr
+Nyanza,eTax Portal,Immigration Department,2729.0,87.0,2023,Unknown
+Bugesera,Digital Health Records,Ministry of Lands,0.0,0.0,2022,Sep
+Nyamagabe,Online Business Registration,Rwanda Revenue Authority,0.0,0.0,2022,Jan
+Burera,eTax Portal,Immigration Department,3236.0,0.0,2022,Jul
+Karongi,E-Visa Service,Ministry of ICT,2623.0,76.6,2021,Feb
+Bugesera,Land Registration Portal,Immigration Department,0.0,74.3,2021,Aug
+Rulindo,Digital Health Records,Ministry of ICT,286.0,70.0,2022,Unknown
+Rusizi,Digital Health Records,Ministry of ICT,3480.0,56.2,2022,May
+Ngoma,eTax Portal,Ministry of ICT,1351.0,60.8,2021,Unknown
+Rusizi,Digital Health Records,Ministry of ICT,0.0,86.5,2024,Unknown
+Nyagatare,Land Registration Portal,Ministry of Lands,491.0,53.4,2021,May
+Musanze,Land Registration Portal,Rwanda Revenue Authority,0.0,0.0,2021,Jun
+Huye,Digital Health Records,Rwanda Revenue Authority,3848.0,70.2,2021,Feb
+Karongi,Online Business Registration,Ministry of ICT,0.0,63.8,2022,Sep
+Musanze,Online Business Registration,Rwanda Revenue Authority,2225.0,0.0,2024,Aug
+Burera,Land Registration Portal,Ministry of ICT,0.0,0.0,2021,Jan
+Rwamagana,Online Business Registration,Rwanda Revenue Authority,0.0,69.2,2022,Jun
+Huye,eTax Portal,Immigration Department,2131.0,92.9,2023,Apr
+Huye,Irembo Services,Ministry of Lands,4733.0,88.0,2023,May
+Kayonza,E-Visa Service,Ministry of Health,391.0,0.0,2021,Oct
+Rusizi,Digital Health Records,Ministry of ICT,2124.0,50.6,2023,Unknown
+Nyanza,eTax Portal,Immigration Department,695.0,0.0,2024,May
+Ngoma,Land Registration Portal,Immigration Department,0.0,0.0,2023,Dec
+Musanze,Irembo Services,Ministry of Lands,0.0,0.0,2023,Oct
+Huye,E-Visa Service,Ministry of Lands,1758.0,58.3,2024,Apr
+Ngoma,Land Registration Portal,Ministry of ICT,3019.0,0.0,2021,Aug
+Nyagatare,Irembo Services,Ministry of ICT,0.0,88.1,2021,Jun
+Bugesera,eTax Portal,Immigration Department,0.0,57.7,2024,Oct
+Rwamagana,Irembo Services,Immigration Department,0.0,0.0,2024,Aug
+Ngoma,Online Business Registration,Ministry of Lands,1436.0,81.8,2024,Unknown
+Gasabo,eTax Portal,Ministry of ICT,2916.0,69.3,2023,Unknown
+Burera,Digital Health Records,Ministry of ICT,3413.0,70.5,2024,Apr
+Rubavu,Land Registration Portal,Immigration Department,4939.0,0.0,2022,Dec
+Rusizi,Online Business Registration,Ministry of Health,198.0,0.0,2023,Sep
+Kicukiro,Digital Health Records,Immigration Department,0.0,0.0,2021,Unknown
+Kicukiro,Irembo Services,Ministry of Health,1186.0,99.4,2021,Unknown
+Burera,Online Business Registration,Ministry of ICT,0.0,55.3,2021,Apr
+Ngoma,Digital Health Records,Immigration Department,0.0,57.0,2023,Mar
+Rubavu,eTax Portal,Ministry of Lands,4243.0,0.0,2022,Jan
+Kayonza,Irembo Services,Rwanda Revenue Authority,0.0,75.3,2024,Jul
+Musanze,Digital Health Records,Ministry of ICT,4551.0,0.0,2024,Jan
+Gasabo,Irembo Services,Ministry of ICT,0.0,0.0,2021,Apr
+Ngoma,Digital Health Records,Immigration Department,0.0,96.3,2021,Sep
+Kayonza,Land Registration Portal,Rwanda Revenue Authority,0.0,0.0,2023,Jun
+Kayonza,eTax Portal,Rwanda Revenue Authority,0.0,65.7,2022,Nov
+Rulindo,Online Business Registration,Rwanda Revenue Authority,4510.0,0.0,2024,Unknown
+Karongi,Digital Health Records,Immigration Department,531.0,0.0,2023,Dec
+Rwamagana,Irembo Services,Immigration Department,0.0,0.0,2024,Jan
+Kicukiro,eTax Portal,Ministry of Health,1574.0,68.7,2021,Jun
+Rusizi,Online Business Registration,Ministry of Health,2393.0,0.0,2024,Jan
+Kayonza,Irembo Services,Ministry of Health,1290.0,99.7,2022,Unknown
+Musanze,eTax Portal,Ministry of Lands,0.0,99.2,2022,Nov
+Nyarugenge,Irembo Services,Ministry of ICT,4170.0,0.0,2021,Jul
+Gakenke,E-Visa Service,Ministry of Health,0.0,69.5,2022,Unknown
+Kayonza,E-Visa Service,Ministry of Lands,0.0,0.0,2022,Dec
+Nyarugenge,eTax Portal,Ministry of Lands,221.0,77.1,2023,Dec
+Kicukiro,Online Business Registration,Immigration Department,0.0,73.9,2024,May
+Rubavu,Online Business Registration,Rwanda Revenue Authority,2372.0,0.0,2021,Feb
+Rubavu,Irembo Services,Rwanda Revenue Authority,3165.0,62.3,2021,Apr
+Ngoma,eTax Portal,Ministry of Health,4140.0,0.0,2021,Sep
+Nyarugenge,Digital Health Records,Ministry of ICT,3054.0,91.3,2021,Apr
+Nyagatare,E-Visa Service,Ministry of ICT,379.0,59.7,2021,Jul
+Musanze,Online Business Registration,Ministry of ICT,3944.0,75.4,2022,Aug
+Burera,E-Visa Service,Ministry of Lands,0.0,0.0,2023,Jan
+Nyamagabe,Digital Health Records,Ministry of Lands,0.0,0.0,2021,Mar
+Nyagatare,Digital Health Records,Ministry of Lands,0.0,0.0,2023,Dec
+Nyanza,Land Registration Portal,Immigration Department,4112.0,79.1,2023,May
+Gakenke,Irembo Services,Ministry of Lands,3202.0,72.2,2022,Feb
+Rulindo,Irembo Services,Ministry of ICT,0.0,0.0,2021,Jan
+Rulindo,Irembo Services,Ministry of ICT,0.0,70.1,2022,Apr
+Ngoma,eTax Portal,Rwanda Revenue Authority,3776.0,0.0,2021,Unknown
+Nyamagabe,Online Business Registration,Ministry of ICT,4043.0,81.2,2022,Sep
+Ngoma,Online Business Registration,Ministry of Lands,0.0,89.6,2023,Jul
+Kicukiro,Land Registration Portal,Ministry of Lands,0.0,60.1,2021,Dec
+Musanze,E-Visa Service,Ministry of Health,4856.0,57.4,2024,Jun
+Huye,Land Registration Portal,Immigration Department,0.0,0.0,2023,Aug
+Huye,Land Registration Portal,Ministry of ICT,0.0,95.3,2024,Dec
+Rusizi,Digital Health Records,Immigration Department,0.0,98.2,2023,Feb
+Nyarugenge,Irembo Services,Ministry of ICT,4480.0,0.0,2022,Oct
+Rwamagana,eTax Portal,Rwanda Revenue Authority,4282.0,0.0,2021,Feb
+Nyagatare,Online Business Registration,Rwanda Revenue Authority,1571.0,0.0,2023,Sep
+Rwamagana,eTax Portal,Immigration Department,4872.0,0.0,2022,Mar
+Burera,Irembo Services,Ministry of Lands,0.0,0.0,2021,Nov
+Nyarugenge,Irembo Services,Ministry of Health,2469.0,0.0,2021,Unknown
+Rwamagana,Online Business Registration,Ministry of ICT,0.0,0.0,2023,Jul
+Gasabo,Digital Health Records,Ministry of ICT,0.0,57.4,2021,Feb
+Nyamagabe,E-Visa Service,Ministry of Health,664.0,0.0,2023,Oct
+Rulindo,Land Registration Portal,Immigration Department,0.0,0.0,2021,Oct
+Kayonza,Digital Health Records,Immigration Department,0.0,74.6,2024,Jan
+Ngoma,Irembo Services,Ministry of ICT,180.0,0.0,2022,Jul
+Kicukiro,Irembo Services,Rwanda Revenue Authority,0.0,0.0,2024,Nov
+Nyagatare,Digital Health Records,Ministry of Health,4328.0,88.1,2023,Mar
+Ngoma,Land Registration Portal,Ministry of ICT,4509.0,0.0,2024,Apr
+Ngoma,Land Registration Portal,Rwanda Revenue Authority,4009.0,0.0,2023,May
+Rulindo,Irembo Services,Immigration Department,3637.0,86.3,2021,May
+Nyarugenge,E-Visa Service,Rwanda Revenue Authority,970.0,0.0,2021,Unknown
+Nyagatare,Land Registration Portal,Ministry of Lands,2819.0,72.2,2023,Jun
+Rusizi,Land Registration Portal,Ministry of ICT,4161.0,0.0,2024,Unknown
+Huye,Online Business Registration,Ministry of Health,0.0,90.3,2021,Jul
+Nyamagabe,E-Visa Service,Rwanda Revenue Authority,3571.0,60.0,2022,Dec
+Musanze,Online Business Registration,Immigration Department,0.0,53.0,2021,Unknown
+Burera,eTax Portal,Rwanda Revenue Authority,0.0,72.0,2022,Dec
+Nyagatare,Digital Health Records,Immigration Department,4396.0,0.0,2024,Jun
+Rubavu,Irembo Services,Ministry of Lands,1854.0,0.0,2022,Jun
+Rusizi,Land Registration Portal,Immigration Department,3860.0,62.8,2022,Aug
+Rubavu,eTax Portal,Ministry of Health,0.0,0.0,2022,May
+Nyarugenge,Online Business Registration,Ministry of Lands,0.0,61.0,2022,Apr
+Kicukiro,Land Registration Portal,Rwanda Revenue Authority,2082.0,0.0,2021,Feb
+Rwamagana,Digital Health Records,Ministry of ICT,4463.0,0.0,2022,Apr
+Ngoma,Online Business Registration,Immigration Department,4893.0,0.0,2021,Mar
+Ngoma,E-Visa Service,Ministry of Health,0.0,0.0,2022,Unknown
+Rulindo,E-Visa Service,Ministry of ICT,1821.0,0.0,2023,Unknown
+Musanze,Irembo Services,Ministry of ICT,0.0,91.0,2024,Oct
+Rulindo,Land Registration Portal,Ministry of Lands,970.0,0.0,2022,Feb
+Ngoma,eTax Portal,Rwanda Revenue Authority,0.0,0.0,2023,Mar
+Gakenke,Irembo Services,Ministry of ICT,4534.0,50.4,2022,Feb
+Rusizi,Land Registration Portal,Ministry of Health,3810.0,0.0,2022,Mar
+Nyanza,Land Registration Portal,Immigration Department,0.0,91.4,2022,Aug
+Burera,Land Registration Portal,Immigration Department,0.0,50.1,2023,Aug
+Kayonza,Land Registration Portal,Immigration Department,0.0,86.9,2024,Jun
+Rulindo,Land Registration Portal,Ministry of Lands,0.0,81.6,2023,Jul
+Nyarugenge,Irembo Services,Ministry of Health,4438.0,0.0,2024,Feb
+Kicukiro,Digital Health Records,Ministry of ICT,481.0,0.0,2022,Sep
+Nyamagabe,Digital Health Records,Ministry of Health,2682.0,82.9,2021,Jun
+Karongi,Irembo Services,Ministry of Lands,0.0,94.2,2022,Unknown
+Rusizi,E-Visa Service,Ministry of Lands,0.0,0.0,2024,Apr
+Gasabo,Digital Health Records,Rwanda Revenue Authority,1878.0,0.0,2023,Aug
+Nyarugenge,eTax Portal,Ministry of Health,4118.0,0.0,2022,May
+Nyagatare,eTax Portal,Immigration Department,4855.0,84.4,2023,Aug
+Gasabo,E-Visa Service,Ministry of Lands,1513.0,53.3,2023,May
+Rusizi,Irembo Services,Ministry of Lands,3465.0,0.0,2023,Unknown
+Kicukiro,eTax Portal,Rwanda Revenue Authority,0.0,90.4,2022,Feb
+Rwamagana,Irembo Services,Immigration Department,4917.0,84.9,2023,Feb
+Kayonza,eTax Portal,Ministry of Lands,934.0,97.8,2023,Mar
+Nyanza,Online Business Registration,Ministry of ICT,0.0,0.0,2022,Unknown
+Rulindo,E-Visa Service,Immigration Department,3451.0,53.8,2023,Nov
+Rusizi,E-Visa Service,Ministry of Health,4371.0,0.0,2022,May
+Rwamagana,E-Visa Service,Rwanda Revenue Authority,2315.0,0.0,2024,Unknown
+Nyamagabe,Irembo Services,Ministry of ICT,0.0,0.0,2024,Dec
+Kayonza,Land Registration Portal,Ministry of ICT,3895.0,70.1,2024,Dec
+Nyarugenge,E-Visa Service,Ministry of Health,0.0,0.0,2023,Oct
+Kayonza,eTax Portal,Rwanda Revenue Authority,776.0,0.0,2021,Jan
+Bugesera,Online Business Registration,Ministry of Lands,0.0,0.0,2021,Apr
+Nyamagabe,Irembo Services,Rwanda Revenue Authority,1963.0,70.3,2023,Unknown
+Karongi,eTax Portal,Ministry of Lands,1646.0,51.1,2021,Unknown
+Karongi,Land Registration Portal,Ministry of Health,0.0,73.8,2022,Jun
+Musanze,eTax Portal,Ministry of Health,0.0,0.0,2021,Mar
+Rwamagana,E-Visa Service,Ministry of ICT,0.0,98.9,2023,Feb
+Karongi,Online Business Registration,Ministry of ICT,4119.0,60.7,2023,Dec
+Nyamagabe,E-Visa Service,Ministry of ICT,942.0,0.0,2022,Apr
+Kayonza,Digital Health Records,Ministry of Health,3210.0,59.4,2024,Jun
+Ngoma,E-Visa Service,Ministry of Lands,0.0,0.0,2023,Jul
+Gakenke,Digital Health Records,Ministry of Health,0.0,0.0,2022,Sep
+Burera,E-Visa Service,Ministry of Health,1340.0,0.0,2021,Jan
+Kicukiro,Online Business Registration,Ministry of ICT,0.0,0.0,2021,Nov
+Rulindo,Online Business Registration,Rwanda Revenue Authority,1268.0,0.0,2022,May
+Nyarugenge,Irembo Services,Ministry of ICT,0.0,61.7,2022,May
+Karongi,E-Visa Service,Rwanda Revenue Authority,4666.0,0.0,2023,Unknown
+Rusizi,Digital Health Records,Ministry of Lands,4185.0,0.0,2021,Mar
+Karongi,Irembo Services,Ministry of Lands,1468.0,57.1,2022,Jan
+Musanzex,eTax Portal,Immigration Department,0.0,0.0,2021,Jul
+Gakenke,Online Business Registration,Immigration Department,0.0,0.0,2022,Unknown
+Nyanza,Irembo Services,Immigration Department,0.0,0.0,2021,Aug
+Gasabo,Online Business Registration,Ministry of Lands,0.0,81.5,2024,Sep
+Burera,Irembo Services,Ministry of ICT,0.0,63.6,2023,Dec
+Rulindo,eTax Portal,Ministry of ICT,1761.0,65.9,2021,Sep
+Nyamagabe,eTax Portal,Ministry of ICT,845.0,59.5,2024,Apr
+Kicukiro,Land Registration Portal,Ministry of Health,0.0,0.0,2021,Feb
+Huye,Digital Health Records,Immigration Department,3161.0,79.7,2021,Aug
+Nyanzax,Land Registration Portal,Ministry of ICT,367.0,0.0,2024,Feb
+Bugesera,Digital Health Records,Immigration Department,0.0,0.0,2021,Unknown
+Kayonza,eTax Portal,Immigration Department,0.0,62.3,2021,Unknown
+Rulindo,Irembo Services,Ministry of Health,3980.0,0.0,2023,Mar
+Kicukiro,E-Visa Service,Ministry of Lands,0.0,55.1,2024,Feb
+Huye,Online Business Registration,Ministry of ICT,4361.0,56.5,2024,Jan
+Rusizi,eTax Portal,Ministry of Health,0.0,0.0,2022,Jan
+Burera,eTax Portal,Ministry of Lands,2189.0,0.0,2021,Unknown
+Rubavu,Irembo Services,Ministry of Lands,1754.0,94.6,2023,Unknown
+Ngoma,E-Visa Service,Ministry of ICT,412.0,0.0,2021,Apr
+Rulindo,eTax Portal,Immigration Department,0.0,0.0,2021,Mar
+Kayonza,eTax Portal,Rwanda Revenue Authority,4501.0,83.8,2022,Apr
+Musanze,Irembo Services,Immigration Department,0.0,0.0,2021,Unknown
+Gasabo,eTax Portal,Immigration Department,4845.0,0.0,2023,Jul
+Nyagatare,Digital Health Records,Rwanda Revenue Authority,0.0,0.0,2023,Jun
+Rwamagana,Digital Health Records,Ministry of Lands,2858.0,83.8,2022,Nov
+Ngoma,E-Visa Service,Rwanda Revenue Authority,0.0,58.3,2021,Nov
+Burera,Digital Health Records,Rwanda Revenue Authority,2769.0,93.8,2023,Nov
+Gasabo,Digital Health Records,Ministry of Health,0.0,0.0,2021,Feb
+Burera,eTax Portal,Ministry of Health,1624.0,0.0,2021,Oct
+Nyamagabe,Online Business Registration,Ministry of Health,0.0,0.0,2021,Oct
+Nyarugenge,Digital Health Records,Ministry of Lands,0.0,0.0,2022,May
+Nyagatare,E-Visa Service,Rwanda Revenue Authority,638.0,0.0,2021,Unknown
+Musanze,Digital Health Records,Ministry of ICT,1597.0,100.0,2023,Feb
+Rulindo,eTax Portal,Rwanda Revenue Authority,0.0,0.0,2021,Jan
+Musanze,Land Registration Portal,Ministry of Lands,3167.0,0.0,2023,Feb
+Rubavu,eTax Portal,Ministry of Health,1186.0,71.6,2021,Apr
+Kayonza,Irembo Services,Ministry of Lands,0.0,0.0,2023,Nov
+Ngoma,E-Visa Service,Ministry of Health,0.0,0.0,2023,Aug
+Nyanza,Digital Health Records,Ministry of Lands,0.0,50.1,2021,Unknown
+Rusizi,Irembo Services,Ministry of ICT,0.0,0.0,2021,Mar
+Nyamagabe,Digital Health Records,Ministry of Health,0.0,0.0,2023,Feb
+Kayonza,Land Registration Portal,Ministry of Health,0.0,0.0,2024,Unknown
+Kayonza,Online Business Registration,Rwanda Revenue Authority,0.0,0.0,2022,Unknown
+Nyagatare,Land Registration Portal,Ministry of Lands,621.0,0.0,2024,Unknown
+Rulindo,eTax Portal,Immigration Department,1295.0,0.0,2024,Jun
+Burera,eTax Portal,Immigration Department,0.0,83.9,2021,Feb
+Rubavu,Irembo Services,Rwanda Revenue Authority,0.0,51.8,2022,Jan
+Gakenke,Irembo Services,Ministry of Lands,0.0,56.8,2024,Aug
+Huye,eTax Portal,Ministry of ICT,0.0,56.3,2021,Jan
+Nyanza,E-Visa Service,Rwanda Revenue Authority,0.0,0.0,2024,Mar
+Rubavu,eTax Portal,Ministry of Health,967.0,0.0,2024,Oct
+Nyarugenge,eTax Portal,Ministry of ICT,935.0,0.0,2021,Jul
+Rusizi,Digital Health Records,Ministry of Lands,0.0,79.0,2021,Unknown
+Nyamagabe,Land Registration Portal,Ministry of Health,3241.0,64.4,2021,Dec
+Karongi,E-Visa Service,Immigration Department,0.0,83.3,2022,Jul
+Nyanza,Digital Health Records,Ministry of Lands,4849.0,0.0,2024,Aug
+Rusizi,Online Business Registration,Ministry of Health,0.0,77.2,2021,Jan
+Gasabo,E-Visa Service,Ministry of Lands,3797.0,0.0,2023,Jul
+Ngoma,Digital Health Records,Ministry of Health,0.0,0.0,2024,Nov
+Ngoma,eTax Portal,Ministry of Lands,78.0,0.0,2023,Jul
+Kayonza,Digital Health Records,Immigration Department,0.0,0.0,2022,Mar
+Rubavu,Irembo Services,Rwanda Revenue Authority,4049.0,70.7,2021,Jun
+Rulindo,E-Visa Service,Ministry of Health,0.0,0.0,2023,Apr
+Burera,eTax Portal,Ministry of Health,0.0,0.0,2022,Mar
+Kayonza,Land Registration Portal,Immigration Department,0.0,63.3,2021,May
+Bugesera,Digital Health Records,Rwanda Revenue Authority,0.0,0.0,2023,May
+Karongi,eTax Portal,Ministry of Lands,88.0,0.0,2023,Aug
+Burera,E-Visa Service,Ministry of Health,936.0,0.0,2022,Mar
+Burera,Irembo Services,Rwanda Revenue Authority,2254.0,0.0,2021,Jan
+Gakenke,Irembo Services,Ministry of Lands,0.0,0.0,2021,Oct
+Rulindo,E-Visa Service,Ministry of Health,0.0,0.0,2023,Oct
+Karongi,E-Visa Service,Ministry of Health,3580.0,56.3,2023,Oct
+Huye,Digital Health Records,Ministry of Lands,3828.0,53.8,2023,Apr
+Nyagatare,eTax Portal,Immigration Department,0.0,0.0,2021,Nov
+Gakenke,Land Registration Portal,Rwanda Revenue Authority,0.0,59.1,2022,May
+Nyagatare,E-Visa Service,Ministry of Health,1038.0,50.9,2022,Aug
+Nyamagabe,E-Visa Service,Ministry of Lands,0.0,67.1,2021,Jul
+Kicukiro,Online Business Registration,Ministry of Health,1732.0,0.0,2024,Sep
+Karongi,Irembo Services,Ministry of Lands,0.0,0.0,2022,Aug
+Kayonza,Online Business Registration,Ministry of Health,983.0,50.1,2023,Jan
+Gakenke,Land Registration Portal,Ministry of ICT,3283.0,83.2,2024,Feb
+Gakenke,E-Visa Service,Immigration Department,1905.0,98.7,2024,May
+Rubavu,Digital Health Records,Rwanda Revenue Authority,0.0,0.0,2022,Jul
+Kayonza,Irembo Services,Immigration Department,1859.0,94.9,2024,Mar
+Kicukiro,Online Business Registration,Immigration Department,2305.0,0.0,2024,Jul
+Rubavu,Irembo Services,Rwanda Revenue Authority,0.0,0.0,2022,Apr
+Nyanza,Online Business Registration,Immigration Department,1034.0,0.0,2022,Nov
+Karongi,E-Visa Service,Ministry of ICT,3726.0,53.3,2024,Unknown
+Musanze,eTax Portal,Ministry of Lands,569.0,0.0,2023,Sep
+Rulindo,eTax Portal,Rwanda Revenue Authority,0.0,74.2,2021,Apr
+Musanze,Digital Health Records,Ministry of Lands,0.0,0.0,2024,Nov
+Nyanza,Land Registration Portal,Ministry of Health,0.0,0.0,2024,Unknown
+Rulindo,Irembo Services,Ministry of ICT,0.0,99.5,2023,Sep
+Gasabo,Land Registration Portal,Ministry of Lands,0.0,0.0,2024,Unknown
+Rubavu,Online Business Registration,Ministry of Lands,0.0,82.5,2024,Jan
+Nyamagabe,E-Visa Service,Rwanda Revenue Authority,576.0,0.0,2021,Jul
+Rubavu,Digital Health Records,Ministry of Health,2303.0,88.8,2021,Unknown
+Nyarugenge,eTax Portal,Rwanda Revenue Authority,0.0,0.0,2021,Dec
+Kayonza,eTax Portal,Ministry of Health,0.0,81.0,2022,Jun
+Rusizi,Digital Health Records,Rwanda Revenue Authority,0.0,0.0,2022,Aug
+Karongi,Irembo Services,Ministry of Lands,0.0,65.8,2021,Sep
+Gakenke,Land Registration Portal,Ministry of Lands,0.0,57.3,2021,Unknown
+Nyarugenge,Online Business Registration,Ministry of ICT,633.0,0.0,2022,Aug
+Karongi,Land Registration Portal,Ministry of Lands,3838.0,0.0,2023,Jun
+Burera,eTax Portal,Immigration Department,4217.0,82.1,2024,Oct
+Gakenke,Digital Health Records,Ministry of Lands,0.0,0.0,2024,Sep
+Karongi,eTax Portal,Immigration Department,0.0,0.0,2021,Jun
+Kayonza,E-Visa Service,Ministry of Lands,3616.0,73.5,2023,Jul
+Burera,eTax Portal,Immigration Department,0.0,0.0,2022,May
+Kicukiro,Online Business Registration,Immigration Department,778.0,53.1,2021,Mar
+Nyarugenge,Irembo Services,Ministry of Lands,0.0,0.0,2023,Jan
+Nyagatare,Irembo Services,Immigration Department,0.0,81.5,2023,Jun
+Ngoma,E-Visa Service,Ministry of ICT,0.0,52.2,2023,Oct
+Nyagatare,Online Business Registration,Ministry of Health,0.0,97.9,2022,Apr
+Nyarugenge,Digital Health Records,Immigration Department,1626.0,0.0,2022,Jan
+Nyamagabe,Land Registration Portal,Immigration Department,0.0,75.0,2024,Unknown
+Musanze,Digital Health Records,Ministry of ICT,0.0,0.0,2024,Unknown
+Musanze,Land Registration Portal,Ministry of ICT,0.0,0.0,2023,May
+Rulindo,Irembo Services,Rwanda Revenue Authority,0.0,0.0,2023,Jan
+Rwamagana,eTax Portal,Ministry of Health,0.0,77.3,2022,Unknown
+Ngoma-,eTax Portal,Rwanda Revenue Authority,51.0,72.9,2024,Aug
+Gasabo,E-Visa Service,Immigration Department,2898.0,58.3,2023,Sep
+Kicukiro,Digital Health Records,Ministry of ICT,0.0,74.1,2024,Jun
+Karongi,Online Business Registration,Immigration Department,967.0,52.5,2024,Unknown
+Kicukiro,Land Registration Portal,Ministry of Lands,0.0,56.8,2023,Oct
+Ngoma,eTax Portal,Ministry of Health,0.0,89.7,2022,Apr
+Bugesera,E-Visa Service,Ministry of Lands,0.0,0.0,2023,Mar
+Bugesera,Digital Health Records,Ministry of ICT,0.0,0.0,2023,Feb
+Nyamagabe,Online Business Registration,Ministry of ICT,155.0,0.0,2024,Apr
+Rubavu,Irembo Services,Ministry of ICT,477.0,0.0,2023,Nov
+Nyagatare,Online Business Registration,Ministry of Health,1945.0,0.0,2022,Apr
+Nyanza,Irembo Services,Rwanda Revenue Authority,366.0,78.5,2023,May
+Nyamagabe,Digital Health Records,Immigration Department,0.0,0.0,2022,Sep
+Rwamagana,Online Business Registration,Immigration Department,0.0,79.7,2022,Unknown
+Rwamagana,E-Visa Service,Immigration Department,3194.0,0.0,2024,Unknown
+Rwamagana,Digital Health Records,Immigration Department,0.0,0.0,2021,Dec
+Nyarugenge,Irembo Services,Immigration Department,0.0,91.5,2021,Jan
+Gakenke,E-Visa Service,Rwanda Revenue Authority,0.0,0.0,2024,Unknown
+Nyagatare,eTax Portal,Ministry of Lands,0.0,84.9,2023,Apr
+Kayonza,E-Visa Service,Ministry of Health,0.0,0.0,2024,Oct
+Rubavu,eTax Portal,Ministry of Lands,4256.0,0.0,2022,Unknown
+Nyagatare,E-Visa Service,Ministry of Lands,2480.0,0.0,2021,Unknown
+Rulindo,Irembo Services,Immigration Department,0.0,0.0,2024,Jul
+Rusizi,Land Registration Portal,Immigration Department,0.0,62.4,2023,Jun
+Rulindo,Land Registration Portal,Rwanda Revenue Authority,0.0,72.9,2024,Unknown
+Rusizi,eTax Portal,Ministry of Health,0.0,0.0,2021,Unknown
+Gasabo,eTax Portal,Ministry of ICT,944.0,88.2,2024,Mar
+Rulindo,Online Business Registration,Ministry of Lands,0.0,74.9,2024,Mar
+Ngoma,E-Visa Service,Ministry of ICT,4159.0,0.0,2021,Apr
+Burera,E-Visa Service,Ministry of Health,0.0,0.0,2022,Oct
+Rwamagana,E-Visa Service,Ministry of Lands,3006.0,77.6,2022,Jun
+Nyarugenge,E-Visa Service,Ministry of ICT,0.0,0.0,2021,Unknown
+Rulindo,Online Business Registration,Ministry of ICT,0.0,0.0,2024,Dec
